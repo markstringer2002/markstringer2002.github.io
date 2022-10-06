@@ -1,0 +1,37 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+      "text": "Outstanding IMF debt as a percentage of GDP",
+      "subtitle":"Total IMF Credit Outstanding for all members from 1984 - 2022 Source:IMF",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+  "data":{"url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/extcred1%20fixed%20data.csv"},
+  
+  "height": 300,
+  "width": 300,
+
+  "mark": {
+    "type": "bar",
+    "color": "#002199"},
+
+"encoding": {
+     "x": {
+       "field": "Year",
+       "type": "temporal",
+       "axis": {
+         "title": "Year",
+         "grid": false,
+         "ticks": false,
+         "labelAngle": 45}},
+
+      "y": {
+        "field": "Percentage",
+        "type": "quantitative",
+        "title": "Debt as a percentage of GDP",
+        "axis": {"grid": false}}
+
+}
+}

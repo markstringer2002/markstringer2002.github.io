@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Title for the page -->
-    <title>Document</title>
+    <title>Mark Stringer</title>
 
     <!-- Link to my style sheet -->
     <link rel="stylesheet" href="index.css">
@@ -24,8 +24,10 @@
 
 <body>
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+    <!--Week 1 Homework-->
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
+        <h2>Week 1</h2>
         
         <h3>Inflation</h3>
         <p>The first chart shows the weighted share of a UK consumer basket over time</p>
@@ -34,18 +36,44 @@
         <h3>GDP comparison</h3>
         <p>The second chart shows a comparison of GDP between four different economies</p>
         <div class="chart" id="Chart2"> </div>
-    </div> 
+
+        </div> 
+
+    <div class="myWeek2">
+        <!--Week 2 Homework-->
+        <h2>Week 2</h2>
+        <h3>Outstanding IMF debt</h3>
+        <p>This chart shows a chart of IMF lending outstanding</p>
+        <div class="week2chart" id="IMFchart"></div>
+
+        <h3>Outstanding IMF debt as a percentage of GDP</h3>
+        <p>This chart uses GDP data from each year to work out outstanding debt as a percentage of this</p>
+        <div class="week2chart" id="FixedIMFchart"></div>
+
+        <p2>1984 is the riskiest year as the graph shows that outstanding debt took up a larger proportion of GDP that year.</p2>
+
+        </div>
 </body>
 
 
 <script>
+    //Week1 Script
     //Define charts:
     var myChart1 = "chart3_inflation";
     var myChart2 = "chart4_GDP";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart2', myChart2); 
+
+    //Week2 Script
+    //Define charts:
+    var IMFdebt = "IMF chart";
+    var FixedIMFchart="IMF chart fixed"
+
+    //Embed charts
+    vegaEmbed('#IMFchart', IMFdebt);
+    vegaEmbed('#FixedIMFchart', FixedIMFchart)
 </script>
 
 </html>

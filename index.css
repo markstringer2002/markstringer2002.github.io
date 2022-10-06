@@ -22,7 +22,15 @@ h1, h3, p{
 }
     
 .myWeek1{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    background-color: rgb(220 220,220);
+}
+
+.myWeek2{
+    margin-left: auto;
+    margin-right: auto;
     max-width: 600px;
     background-color: rgb(220 220,220);
 }
@@ -32,9 +40,24 @@ h1, h3, p{
 .chart{
     display: block;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
     width:40%;
-    background-color: rgb(190, 190,190);
+    background-color: "white";
+    width: 370px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #435a7e;
+
+}
+
+/* Set the appearance of week 2 charts */
+.week2chart{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    background-color: "white";
     width: 370px;
     border-width: 5px;
     border-style: solid;
