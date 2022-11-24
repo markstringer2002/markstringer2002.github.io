@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "title": {
+      "text": "Tokyo 2022 Winter Olympics Medal Table",
+      "subtitle": "Composition of medals. Source: ESPN",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+
+  "data": {"url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/winterolympics.csv"},
+  "height": 350,
+  "width": 650,
+  "mark": "bar",
+  
+  "encoding": {
+    "x": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country",
+      "sort":"-y"
+    },
+   
+    "y": {
+      "field":"Total",
+      "type": "quantitative"
+    },
+
+    "color": {
+      "field": "Medal Colour",
+      "type": "ordinal",
+      "scale": {
+        "domain": ["Gold", "Silver", "Bronze"],
+        "range": ["#D6AF36", "#A7A7AD", "#A77044"]
+      },
+      "title": "Medal Colour"
+    },
+    "order": {"aggregate": "count"}
+  }
+}

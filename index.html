@@ -23,57 +23,118 @@
 
 
 <body>
-    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <!--Week 1 Homework-->
-    <div class="myWeek1">
-        <h1>Data Science for Economists.</h1>
-        <h2>Week 1</h2>
+    <!--Header-->
+    <div class="Header">
         
-        <h3>Inflation</h3>
-        <p>The first chart shows the weighted share of a UK consumer basket over time</p>
-        <div class="chart" id="Chart1"></div>
+    <h1>Data Science for Economists.</h1>
+    <h2>Mark Stringer</h2>
+    
+        <a href="index.html" id="link">Portfolio</a>
+        <a href="project.html" id="link">Project</a>
+        <a href="ABOUT.html" id="link">About Me</a>
 
-        <h3>GDP comparison</h3>
-        <p>The second chart shows a comparison of GDP between four different economies</p>
-        <div class="chart" id="Chart2"> </div>
+    <p>Welcome to my Portfolio</p>
+    
+    </div>
 
-        </div> 
+<!--Week 1 Homework-->
+<div class = "title">
+    <h2>Week 1</h2>
+</div>
 
-    <div class="myWeek2">
-        <!--Week 2 Homework-->
-        <h2>Week 2</h2>
-        <h3>Outstanding IMF debt</h3>
-        <p>This chart shows a chart of IMF lending outstanding</p>
-        <div class="chart" id="IMFchart"></div>
+    <div class = "style">
 
-        <h3>Outstanding IMF debt as a percentage of GDP</h3>
-        <p>This chart uses GDP data from each year to work out outstanding debt as a percentage of this</p>
-        <div class="chart" id="FixedIMFchart"></div>
-
-        <p2>1984 is the riskiest year as the graph shows that outstanding debt took up a larger proportion of GDP that year.</p2>
-
+        <div class="style1">
+            <h3>Inflation</h3>
+            <p>The first chart shows the weighted share of a UK consumer basket over time</p>
+            <div class="chart" id="Chart1"></div>
         </div>
-</body>
 
+        <div class = "style1">
+            <h3>GDP comparison</h3>
+            <p>The second chart shows a comparison of GDP between four different economies</p>
+            <div class="chart" id="Chart2"> </div>
+        </div>
+    <p>This week we were asked to embed two charts from the rapid charts repository onto our website</p>
+    </div>
+</div> 
+
+<!--Week 2 Homework-->
+<div class = "title">
+    <h2>Week 2</h2>
+</div>
+
+    <div class = "style">
+
+        <div class="style1">
+            <h3>Outstanding IMF debt</h3>
+            <p>This chart shows a chart of IMF lending outstanding from 1984-2022</p>
+            <div class="chart" id="IMFchart"></div>
+        </div>
+
+        <div class = "style1">
+            <h3>Outstanding IMF debt as a percentage of GDP</h3>
+            <p>This chart uses GDP data from each year to work out outstanding debt as a percentage of this</p>
+            <div class="chart" id="FixedIMFchart"> </div>
+        </div>
+    <p>1984 is the riskiest year as the graph shows that outstanding debt took up a larger proportion of GDP that year</p>
+    </div>
+</div> 
+
+<!--Week 3 Homework-->
+<div class = "title">
+    <h2>Week 3</h2>
+</div>
+
+    <div class = "style">
+
+        <div class="style1">
+            <h3>Inflation Levels Bar Chart</h3>
+            <p>This bar chart shows inflation levels in the UK vs the Global Median</p>
+            <div class="chart" id="Inflation_Level_Bar_Chart"></div>
+        </div>
+
+        <div class = "style1">
+            <h3>Inflation Levels Bar Chart</h3>
+            <p>This bar chart uses the same data as the previous chart, however, it is presented as a line chart</p>
+            <div class="chart" id="Inflation_Level_Line_Chart"> </div>
+        </div>
+    <p>I have chosen the visual encoding of a line chart instead of a bar chart as the data is a time series and therefore has a large numer of data points so a line chart is clearer to read</p>
+    </div>
+</div> 
+
+<!--Week 4 Homework-->
+<div class = "title">
+    <h2>Week 4</h2>
+    <div class = "style">
+        <h3>Tokyo Winter Olympics</h3>
+        <p>This chart shows the total and type of each medal received by countries in the 2022 Winter Olympics</p>
+        <div class="widechart" id="winterolympicsgraphs"></div>
+        <p>The analysis used to create this graph can be seen <a href="https://colab.research.google.com/drive/1uPR2hKUTLg8Savo7RamDinW5mMLkyslz?usp=sharing" target="_blank">here</a></p>
+    </div>
+</div> 
 
 <script>
-    //Week1 Script
     //Define charts:
     var myChart1 = "chart3_inflation";
     var myChart2 = "chart4_GDP";
+    var IMFdebt = "IMF chart";
+    var FixedIMFchart="IMF chart fixed"
+    var BondYield = "Bond Yield";
+    var winterolympicsgraphs = "winterolympicsgraphs";
+    var Inflation_Level_Bar_Chart = "Inflation_Level_Bar_Chart";
+    var Inflation_Level_Line_Chart = "Inflation_Level_Line_Chart";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2); 
-
-    //Week2 Script
-    //Define charts:
-    var IMFdebt = "IMF chart";
-    var FixedIMFchart="IMF chart fixed"
-
-    //Embed charts
+    vegaEmbed('#Chart2', myChart2);  
     vegaEmbed('#IMFchart', IMFdebt);
     vegaEmbed('#FixedIMFchart', FixedIMFchart)
+    vegaEmbed('#BondYield', BondYield);
+    vegaEmbed('#winterolympicsgraphs', winterolympicsgraphs);
+    vegaEmbed('#Inflation_Level_Bar_Chart', Inflation_Level_Bar_Chart);
+    vegaEmbed('#Inflation_Level_Line_Chart', Inflation_Level_Line_Chart);
+    
 </script>
 
 </html>

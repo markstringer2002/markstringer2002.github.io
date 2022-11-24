@@ -13,7 +13,7 @@
 
 
   "width":300,
-  "height":300,
+  "height":200,
 
 
   "encoding": {
@@ -34,12 +34,7 @@
      "stack":true
      },
 
-    "color": {
-      "field": "selectedDate", 
-      "type": "ordinal", 
-      "title":null,
-      "legend":null,
-      "scale":{"scheme":"yellowgreenblue"}},
+
 
     
 
