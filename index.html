@@ -114,6 +114,26 @@
     </div>
 </div> 
 
+<!--Week 5 Homework-->
+<div class = "title">
+    <h2>Week 5</h2>
+</div>
+
+<div class ="style">
+        <h3>Balance of Trade Dashboard</h3>
+    <p>This dashboard shows the breakdown of the UK's Balance of Trade, split into goods, services and Total</p>
+    <div class="chartdashboard" id="dashboard1"></div>
+    <div class="chartdashboard" id="dashboard2"></div>
+    <div class="chartdashboard" id="dashboard3"></div>
+    <div class="chartdashboard" id="dashboard4"></div>
+    <div class="chartdashboard" id="dashboard5"></div>
+    <div class="chartdashboard" id="dashboard6"></div>
+    <div class="chartdashboard" id="dashboard7"></div>
+    <div class="chartdashboard" id="dashboard8"></div>
+    <div class="chartdashboard" id="dashboard9"></div>
+    <p>The analysis used to create this Balance of Trade Dashboard was done using python <a href=https://colab.research.google.com/drive/1l_Stk7Kt4Tj24mt2cixMMFHJfZmEodqU#scrollTo=IUL1wvJmofYj target="_blank">here</a></p>
+</div>
+
 <script>
     //Define charts:
     var myChart1 = "chart3_inflation";
@@ -124,6 +144,15 @@
     var winterolympicsgraphs = "winterolympicsgraphs";
     var Inflation_Level_Bar_Chart = "Inflation_Level_Bar_Chart";
     var Inflation_Level_Line_Chart = "Inflation_Level_Line_Chart";
+    var dashboard1 = "exportedgoods";
+    var dashboard2 = "importedgoods"
+    var dashboard3 = "totalgoods"
+    var dashboard4 = "exportedservices"
+    var dashboard5 = "importedservices"
+    var dashboard6 = "totalservices"
+    var dashboard7 = "exportedtotal"
+    var dashboard8 = "importedtotal"
+    var dashboard9 = "BOPtotal"
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -134,7 +163,16 @@
     vegaEmbed('#winterolympicsgraphs', winterolympicsgraphs);
     vegaEmbed('#Inflation_Level_Bar_Chart', Inflation_Level_Bar_Chart);
     vegaEmbed('#Inflation_Level_Line_Chart', Inflation_Level_Line_Chart);
-    
+    vegaEmbed('#dashboard1',dashboard1);
+    vegaEmbed('#dashboard2',dashboard2);
+    vegaEmbed('#dashboard3',dashboard3);
+    vegaEmbed('#dashboard4',dashboard4);
+    vegaEmbed('#dashboard5',dashboard5);
+    vegaEmbed('#dashboard6',dashboard6);
+    vegaEmbed('#dashboard7',dashboard7);
+    vegaEmbed('#dashboard8',dashboard8);
+    vegaEmbed('#dashboard9',dashboard9);
+
 </script>
 
 </html>

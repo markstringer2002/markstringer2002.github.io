@@ -10,8 +10,8 @@
     },
 
   "data": {"url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/winterolympics.csv"},
-  "height": 350,
-  "width": 650,
+  "height": 300,
+  "width": 400,
   "mark": "bar",
   
   "encoding": {

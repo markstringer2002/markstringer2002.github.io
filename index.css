@@ -30,6 +30,7 @@ body{
     text-decoration: none;
 }
 
+
 #link:hover{
     background-color: rgb(67, 90, 126, 1);
     border:2px;
@@ -51,7 +52,7 @@ h1,h2,h3, p{
     margin: auto;
     margin-top: 0px;
     align-content: center;
-    max-width: 900px;
+    max-width: 904px;
     background-color: #EAEAEA;
     padding: 20px;
       
@@ -84,19 +85,40 @@ h1,h2,h3, p{
     margin-bottom: 20px;
 }
 
+.chart:hover {
+    transform: scale(1.1);
+}
+
 .widechart{
     align-items: center;
     background-color: white;
-    width:825px;
+    width:550px;
     
     border-width: 2px;
     border-style: solid;
     border-radius: 5px;
     border-color: #313d5a;
-    margin-left: 35px;
+    margin-left: 180px;
     margin-bottom: 20px;
 
 }
 
+.widechart:hover {
+    transform: scale(1.1);
+}
 
-    
+.chartdashboard{
+    align-items: center;
+    background-color: white;
+    width:268px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #313d5a;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.chartdashboard:hover {
+    transform: scale(1.1);
+}
