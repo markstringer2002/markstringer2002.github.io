@@ -1,0 +1,29 @@
+﻿Region,Programming Language,Percentage
+Global,Javascript,53.6
+Americas,Javascript,56.9
+Asia-Pacific,Javascript,51.2
+"Europe, the Middle East and Africa",Javascript,53.6
+Global,Python,49.5
+Americas,Python,51.6
+Asia-Pacific,Python,50.7
+"Europe, the Middle East and Africa",Python,45.2
+Global,Java,44.1
+Americas,Java,38.1
+Asia-Pacific,Java,51.3
+"Europe, the Middle East and Africa",Java,40.9
+Global,C#,19.7
+Americas,C#,21.7
+Asia-Pacific,C#,15.8
+"Europe, the Middle East and Africa",C#,23.6
+Global,C++,18.3
+Americas,C++,17.2
+Asia-Pacific,C++,17.5
+"Europe, the Middle East and Africa",C++,20.9
+Global,PHP,17
+Americas,PHP,15
+Asia-Pacific,PHP,16.8
+"Europe, the Middle East and Africa",PHP,19.5
+Global,Language Agnostic,14.3
+Americas,Language Agnostic,20.5
+Asia-Pacific,Language Agnostic,10
+"Europe, the Middle East and Africa",Language Agnostic,12.8
