@@ -1,0 +1,29 @@
+﻿Programming Language,Region,Percentage
+Javascript,Global,53.6
+Javascript,AMER,56.9
+Javascript,APAC,51.2
+Javascript,EMEA,53.6
+Python,Global,49.5
+Python,AMER,51.6
+Python,APAC,50.7
+Python,EMEA,45.2
+Java,Global,44.1
+Java,AMER,38.1
+Java,APAC,51.3
+Java,EMEA,40.9
+C#,Global,19.7
+C#,AMER,21.7
+C#,APAC,15.8
+C#,EMEA,23.6
+C++,Global,18.3
+C++,AMER,17.2
+C++,APAC,17.5
+C++,EMEA,20.9
+PHP,Global,17
+PHP,AMER,15
+PHP,APAC,16.8
+PHP,EMEA,19.5
+Language Agnostic,Global,14.3
+Language Agnostic,AMER,20.5
+Language Agnostic,APAC,10
+Language Agnostic,EMEA,12.8
