@@ -122,3 +122,16 @@ h1,h2,h3, p{
 .chartdashboard:hover {
     transform: scale(1.1);
 }
+
+.chartmap{
+    align-items: center;
+    background-color: white;
+    width:800px;
+    height:550px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #313d5a;
+    margin-left: 75px;
+    margin-bottom: 20px; 
+}

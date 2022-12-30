@@ -1,0 +1,31 @@
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Map of Asia",
+      "subtitle": "Base map", 
+      "anchor": "start",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10
+    },
+    "width": 750,
+    "height": 500,
+    "data": {
+      "url": "https://gist.githubusercontent.com/hrbrmstr/94bdd47705d05a50f9cf/raw/0ccc6b926e1aa64448e239ac024f04e518d63954/asia.geojson",
+      "format": {"property": "features"}
+    },
+    "projection": {"type": "mercator"},
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "fill": "lightgray",
+      "strokeWidth": 0.5
+    },
+    "encoding": {"tooltip": [
+      {
+        "field": "properties.sovereignt", 
+        "type": "nominal", 
+        "title":"Country"
+      }
+  ]
+}}

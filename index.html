@@ -134,6 +134,34 @@
     <p>The analysis used to create this Balance of Trade Dashboard was done using python <a href=https://colab.research.google.com/drive/1l_Stk7Kt4Tj24mt2cixMMFHJfZmEodqU#scrollTo=IUL1wvJmofYj target="_blank">here</a></p>
 </div>
 
+<!--Week 7 Homework-->
+<div class = "title">
+    <h2>Week 7</h2>
+</div>
+
+    <div class = "style">
+        <h3>Base map of Asia</h3>
+        <div class="chartmap" id="Chinabasemap"></div>
+
+        <h3>CO2 Emissions in Asia</h3>
+        <div class="chartmap" id="CO2_emissions_chart"></div>
+        <p>This chart shows the CO2 emissions in metric tons per capita of countries in Asia, the darkest colours show the countries with higher emissions</p>
+</div> 
+
+<!--Week 8 Homework-->
+<div class = "title">
+    <h2>Week 8</h2>
+</div>
+
+    <div class = "style">
+        <h3>Most</h3>
+        <div class="chartmap" id="language"></div>
+
+        <h3>CO2 Emissions in Asia</h3>
+        <div class="chart" id="language_salary"></div>
+        <p>This chart shows the CO2 emissions in metric tons per capita of countries in Asia, the darkest colours show the countries with higher emissions</p>
+</div> 
+
 <script>
     //Define charts:
     var myChart1 = "chart3_inflation";
@@ -153,6 +181,10 @@
     var dashboard7 = "exportedtotal"
     var dashboard8 = "importedtotal"
     var dashboard9 = "BOPtotal"
+    var Chinabasemap = "Chinabasemap"
+    var CO2_emissions_chart = "CO2_emissions_chart"
+    var language = "language"
+    var language_salary = "language_salary"
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -172,6 +204,10 @@
     vegaEmbed('#dashboard7',dashboard7);
     vegaEmbed('#dashboard8',dashboard8);
     vegaEmbed('#dashboard9',dashboard9);
+    vegaEmbed('#Chinabasemap',Chinabasemap);
+    vegaEmbed('#CO2_emissions_chart',CO2_emissions_chart);
+    vegaEmbed('#language',language);
+    vegaEmbed('#language_salary',language_salary);
 
 </script>
 
