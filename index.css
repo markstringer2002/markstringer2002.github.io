@@ -69,6 +69,14 @@ h1,h2,h3, p{
     float:left;
     background-color: #EAEAEA;    
 }
+
+.style2{
+    margin-left:10px;
+    align-content: center;
+    width: 440px;
+    float:center;
+    background-color: #EAEAEA;    
+}
     
 
 /* Set the apperance of the class, chart */

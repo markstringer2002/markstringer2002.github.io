@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Salary Increase based on Languages Known",
+    "subtitle": "Over global avergae salry ($59,491 USD), Source: HackerRank",
+    "anchor": "start",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10
+  },
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/Programming%20languages%20salary%20increase.csv"
+  },
+  "height": 300,
+  "width": 400,
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {"field": "Salary Increase (%)", "type": "quantitative"},
+    "y": {"field": "Programming Language", "type": "nominal", "sort": "-x"},
+    "tooltip": [
+      {"field": "Salary Increase (%)", "title": "Percentage Increase"}
+    ]
+  },
+  "config": {}
+}

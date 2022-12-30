@@ -154,12 +154,12 @@
 </div>
 
     <div class = "style">
-        <h3>Most</h3>
-        <div class="chartmap" id="language"></div>
+        <h3>An argument that was made at the Festival of Economics was that "The programming language most useful to learn is python"</h3>
+        <div class="widechart" id="language_chart"></div>
 
-        <h3>CO2 Emissions in Asia</h3>
-        <div class="chart" id="language_salary"></div>
-        <p>This chart shows the CO2 emissions in metric tons per capita of countries in Asia, the darkest colours show the countries with higher emissions</p>
+        <h3>Programming Languages correlation with an increased salary</h3>
+        <div class="widechart" id="language_salary_chart"></div>
+        <p>This first chart supports this statement as it is the second most desired language when hiring developers. The second chart refutes this argument as there are other programming languages that will give you a higher salary</p>
 </div> 
 
 <script>
@@ -183,8 +183,8 @@
     var dashboard9 = "BOPtotal"
     var Chinabasemap = "Chinabasemap"
     var CO2_emissions_chart = "CO2_emissions_chart"
-    var language = "language"
-    var language_salary = "language_salary"
+    var language_chart = "language_chart"
+    var language_salary_chart = "language_salary_chart"
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -206,8 +206,8 @@
     vegaEmbed('#dashboard9',dashboard9);
     vegaEmbed('#Chinabasemap',Chinabasemap);
     vegaEmbed('#CO2_emissions_chart',CO2_emissions_chart);
-    vegaEmbed('#language',language);
-    vegaEmbed('#language_salary',language_salary);
+    vegaEmbed('#language_chart',language_chart);
+    vegaEmbed('#language_salary_chart',language_salary_chart);
 
 </script>
 
