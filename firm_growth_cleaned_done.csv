@@ -1,0 +1,438 @@
+Local Authority District,20% Employment Growth,20% Turnover Growth,20% Employment and Turnover Growth
+County Durham,65,145,30
+Darlington,15,30,10
+Hartlepool,10,20,5
+Middlesbrough,15,35,10
+Northumberland,55,90,35
+Redcar and Cleveland,20,35,5
+Stockton-on-Tees,25,60,10
+Tyne and Wear (Met County),200,345,105
+   Gateshead,40,75,20
+   Newcastle upon Tyne,75,125,40
+   North Tyneside,35,45,20
+   South Tyneside,15,25,5
+   Sunderland,35,75,20
+North West,"1,445","2,765",785
+Blackburn with Darwen,30,50,15
+Blackpool,20,40,10
+Cheshire East,115,230,75
+Cheshire West and Chester,75,150,35
+Halton,25,50,15
+Warrington,50,80,20
+Cumbria,80,175,35
+Allerdale,20,25,10
+Barrow-in-Furness,5,15,0
+Carlisle,20,45,10
+Copeland,5,10,0
+Eden,10,20,5
+South Lakeland,20,60,10
+Greater Manchester (Met County),600,"1,105",330
+Bolton,60,105,35
+Bury,30,65,20
+Manchester,170,300,95
+Oldham,30,70,15
+Rochdale,30,65,15
+Salford,65,130,45
+Stockport,60,115,30
+Tameside,35,45,15
+Trafford,70,120,35
+Wigan,50,90,25
+Lancashire,250,470,130
+Burnley,20,35,10
+Chorley,25,55,10
+Fylde,15,40,10
+Hyndburn,20,30,10
+Lancaster,25,40,15
+Pendle,20,30,10
+Preston,30,70,15
+Ribble Valley,15,25,5
+Rossendale,10,25,5
+South Ribble,30,45,15
+West Lancashire,25,50,15
+Wyre,15,25,10
+Merseyside (Met County),200,415,120
+Knowsley,20,40,15
+Liverpool,85,175,50
+Sefton,30,70,20
+St. Helens,25,60,15
+Wirral,40,70,20
+Yorkshire and The Humber,"1,025","2,040",545
+East Riding of Yorkshire,55,120,30
+Kingston upon Hull City of,35,100,15
+North East Lincolnshire,30,50,20
+North Lincolnshire,25,50,10
+York,40,75,20
+North Yorkshire,150,275,80
+Craven,20,30,15
+Hambleton,20,35,10
+Harrogate,50,90,30
+Richmondshire,15,25,5
+Ryedale,15,25,5
+Scarborough,20,35,10
+Selby,10,35,5
+South Yorkshire (Met County),215,475,120
+Barnsley,30,80,15
+Doncaster,40,95,20
+Rotherham,45,90,25
+Sheffield,100,210,60
+West Yorkshire (Met County),475,895,250
+Bradford,80,175,45
+Calderdale,25,65,10
+Kirklees,85,160,50
+Leeds,225,375,115
+Wakefield,60,120,30
+East Midlands,915,"1,755",475
+Derby,45,95,25
+Leicester,70,150,40
+Nottingham,65,140,35
+Rutland,5,20,0
+Derbyshire,130,265,55
+Amber Valley,20,50,10
+Bolsover,10,30,5
+Chesterfield,15,35,5
+Derbyshire Dales,20,30,5
+Erewash,15,45,10
+High Peak,15,20,5
+North East Derbyshire,20,30,5
+South Derbyshire,15,25,10
+Leicestershire,150,280,80
+Blaby,20,45,15
+Charnwood,35,65,20
+Harborough,30,45,15
+Hinckley and Bosworth,20,35,10
+Melton,10,20,0
+North West Leicestershire,30,55,20
+Oadby and Wigston,5,15,0
+Lincolnshire,115,245,55
+Boston,10,25,10
+East Lindsey,20,40,5
+Lincoln,15,35,5
+North Kesteven,20,40,15
+South Holland,10,30,5
+South Kesteven,25,50,10
+West Lindsey,15,25,5
+Northamptonshire,180,320,105
+Corby,25,45,20
+Daventry,25,35,15
+East Northamptonshire,10,25,5
+Kettering,15,35,5
+Northampton,60,95,35
+South Northamptonshire,30,50,15
+Wellingborough,15,35,10
+Nottinghamshire,155,240,80
+Ashfield,25,25,15
+Bassetlaw,25,40,10
+Broxtowe,20,35,10
+Gedling,15,25,10
+Mansfield,15,25,5
+Newark and Sherwood,25,50,15
+Rushcliffe,30,40,15
+West Midlands,"1,045","2,060",530
+Herefordshire County of,40,85,20
+Shropshire,65,130,30
+Stoke-on-Trent,40,85,15
+Telford and Wrekin,30,65,15
+Staffordshire,165,305,95
+Cannock Chase,10,30,5
+East Staffordshire,25,40,15
+Lichfield,30,55,25
+Newcastle-under-Lyme,15,35,10
+South Staffordshire,20,35,10
+Stafford,30,50,15
+Staffordshire Moorlands,15,25,5
+Tamworth,20,35,10
+Warwickshire,130,255,60
+North Warwickshire,20,40,10
+Nuneaton and Bedworth,25,45,5
+Rugby,15,25,5
+Stratford-on-Avon,45,70,25
+Warwick,25,75,15
+West Midlands (Met County),455,870,235
+Birmingham,175,380,100
+Coventry,50,85,30
+Dudley,55,80,25
+Sandwell,35,90,15
+Solihull,55,80,25
+Walsall,40,75,20
+Wolverhampton,45,80,20
+Worcestershire,120,265,60
+Bromsgrove,25,50,10
+Malvern Hills,15,40,10
+Redditch,20,30,5
+Worcester,25,50,15
+Wychavon,25,65,15
+Wyre Forest,10,30,5
+East,"1,320","2,460",695
+Bedford,40,60,25
+Central Bedfordshire,45,80,15
+Luton,25,50,10
+Peterborough,55,75,30
+Southend-on-Sea,20,65,15
+Thurrock,30,45,15
+Cambridgeshire,185,340,100
+Cambridge,45,75,20
+East Cambridgeshire,20,40,10
+Fenland,15,30,10
+Huntingdonshire,45,80,30
+South Cambridgeshire,60,115,30
+Essex,310,605,160
+Basildon,25,85,15
+Braintree,30,65,15
+Brentwood,10,40,10
+Castle Point,10,20,0
+Chelmsford,35,60,15
+Colchester,45,75,25
+Epping Forest,40,60,20
+Harlow,20,30,10
+Maldon,15,30,10
+Rochford,20,30,10
+Tendring,25,45,15
+Uttlesford,35,65,15
+Hertfordshire,280,550,165
+Broxbourne,20,30,5
+Dacorum,30,50,15
+East Hertfordshire,40,65,20
+Hertsmere,40,75,25
+North Hertfordshire,35,65,20
+St Albans,45,85,30
+Stevenage,15,30,10
+Three Rivers,15,45,10
+Watford,15,55,15
+Welwyn Hatfield,25,50,15
+Norfolk,180,310,90
+Breckland,35,50,20
+Broadland,20,45,10
+Great Yarmouth,10,25,5
+King's Lynn and West Norfolk,30,45,10
+North Norfolk,20,30,10
+Norwich,40,65,20
+South Norfolk,25,50,15
+Suffolk,150,280,70
+Babergh,20,30,5
+Forest Heath,20,35,10
+Ipswich,25,50,20
+Mid Suffolk,25,35,10
+St Edmundsbury,10,45,5
+Suffolk Coastal,30,55,15
+Waveney,20,30,5
+London,"2,850","5,870","1,655"
+Inner London,"2,045","4,205","1,215"
+Camden,215,460,120
+City of London,340,705,205
+Hackney,135,275,90
+Hammersmith and Fulham,80,180,45
+Haringey,25,55,15
+Islington,185,330,115
+Kensington and Chelsea,75,165,45
+Lambeth,75,160,45
+Lewisham,20,30,5
+Newham,30,65,15
+Southwark,165,330,100
+Tower Hamlets,115,280,80
+Wandsworth,65,105,35
+Westminster,520,"1,065",300
+Outer London,805,"1,665",440
+Barking and Dagenham,25,45,15
+Barnet,70,140,35
+Bexley,30,60,10
+Brent,60,110,25
+Bromley,55,90,30
+Croydon,40,100,25
+Ealing,50,120,30
+Enfield,40,85,20
+Greenwich,40,60,20
+Harrow,35,95,25
+Havering,40,60,20
+Hillingdon,60,135,30
+Hounslow,60,120,35
+Kingston upon Thames,30,65,15
+Merton,35,95,20
+Redbridge,35,70,20
+Richmond upon Thames,55,105,35
+Sutton,20,55,15
+Waltham Forest,25,55,15
+South East,"2,030","4,100","1,060"
+Bracknell Forest,30,55,15
+Brighton and Hove,80,160,45
+Isle of Wight,20,45,10
+Medway,35,80,15
+Milton Keynes,75,130,35
+Portsmouth,35,65,20
+Reading,55,95,30
+Slough,50,75,25
+Southampton,40,70,25
+West Berkshire,45,90,15
+Windsor and Maidenhead,50,105,30
+Wokingham,40,105,25
+Buckinghamshire,145,250,70
+Aylesbury Vale,45,70,30
+Chiltern,20,45,10
+South Bucks,25,45,10
+Wycombe,55,90,20
+East Sussex,85,165,35
+Eastbourne,10,20,0
+Hastings,15,20,5
+Lewes,15,40,10
+Rother,10,25,5
+Wealden,35,60,15
+Hampshire,310,680,175
+Basingstoke and Deane,40,80,25
+East Hampshire,30,55,15
+Eastleigh,20,65,20
+Fareham,20,50,15
+Gosport,5,20,5
+Hart,10,40,10
+Havant,20,40,10
+New Forest,40,105,20
+Rushmoor,30,70,15
+Test Valley,35,70,15
+Winchester,60,85,25
+Kent,295,615,155
+Ashford,30,55,15
+Canterbury,20,50,10
+Dartford,20,45,10
+Dover,15,35,10
+Gravesham,10,35,0
+Maidstone,40,80,25
+Sevenoaks,30,50,15
+Shepway,15,45,10
+Swale,25,50,10
+Thanet,20,45,15
+Tonbridge and Malling,35,65,15
+Tunbridge Wells,35,60,20
+Oxfordshire,175,370,90
+Cherwell,35,95,20
+Oxford,45,90,20
+South Oxfordshire,35,75,20
+Vale of White Horse,40,65,20
+West Oxfordshire,20,45,10
+Surrey,300,600,160
+Elmbridge,30,70,15
+Epsom and Ewell,10,30,5
+Guildford,50,95,30
+Mole Valley,25,40,5
+Reigate and Banstead,20,50,10
+Runnymede,30,55,20
+Spelthorne,15,35,10
+Surrey Heath,40,70,20
+Tandridge,20,30,10
+Waverley,35,70,20
+Woking,25,55,15
+West Sussex,165,345,85
+Adur,10,20,5
+Arun,25,35,10
+Chichester,20,50,10
+Crawley,35,70,25
+Horsham,25,70,10
+Mid Sussex,35,60,15
+Worthing,15,40,10
+South West,"1,190","2,140",585
+Bath and North East Somerset,60,90,30
+Bournemouth,30,75,15
+Bristol City of,120,255,70
+Cornwall,115,220,55
+Isles of Scilly,0,0,0
+North Somerset,40,70,25
+Plymouth,40,75,15
+Poole,35,65,15
+South Gloucestershire,60,110,35
+Swindon,30,70,10
+Torbay,10,40,10
+Wiltshire,105,165,45
+Devon,165,270,75
+East Devon,20,45,10
+Exeter,30,55,15
+Mid Devon,10,20,0
+North Devon,15,20,10
+South Hams,25,40,10
+Teignbridge,35,50,15
+Torridge,15,20,10
+West Devon,15,20,5
+Dorset,80,145,35
+Christchurch,15,25,10
+East Dorset,20,30,10
+North Dorset,5,15,0
+Purbeck,10,20,5
+West Dorset,25,40,10
+Weymouth and Portland,5,15,0
+Gloucestershire,195,300,95
+Cheltenham,45,65,20
+Cotswold,30,50,20
+Forest of Dean,15,30,5
+Gloucester,25,35,10
+Stroud,40,70,20
+Tewkesbury,40,50,20
+Somerset,105,190,55
+Mendip,30,50,15
+Sedgemoor,25,35,10
+South Somerset,25,50,15
+Taunton Deane,20,50,10
+West Somerset,5,5,5
+Wales,515,940,255
+Isle of Anglesey,15,20,5
+Gwynedd,20,30,5
+Conwy,20,30,10
+Denbighshire,15,25,10
+Flintshire,35,60,15
+Wrexham,25,45,15
+Powys,25,35,5
+Ceredigion,10,20,0
+Pembrokeshire,20,40,10
+Carmarthenshire,20,55,15
+Swansea,30,60,20
+Neath Port Talbot,20,45,10
+Bridgend,25,45,10
+Vale of Glamorgan,15,30,10
+Cardiff,90,160,50
+Rhondda Cynon Taf,30,55,15
+Merthyr Tydfil,10,15,5
+Caerphilly,30,55,15
+Blaenau Gwent,0,15,0
+Torfaen,15,35,10
+Monmouthshire,15,20,5
+Newport,30,45,15
+Scotland,905,"1,720",435
+Aberdeen City,35,65,15
+Aberdeenshire,35,65,15
+Angus,20,20,5
+Argyll and Bute,15,25,5
+City of Edinburgh,155,270,90
+Clackmannanshire,5,10,0
+Dumfries and Galloway,30,45,15
+Dundee City,20,40,5
+East Ayrshire,15,35,10
+East Dunbartonshire,5,20,5
+East Lothian,15,20,5
+East Renfrewshire,10,25,5
+Falkirk,15,35,5
+Fife,55,90,25
+Glasgow City,140,285,75
+Highland,60,90,25
+Inverclyde,5,15,5
+Midlothian,20,35,10
+Moray,5,20,0
+Na h-Eileanan Siar,0,10,0
+North Ayrshire,15,30,5
+North Lanarkshire,45,70,20
+Orkney Islands,0,5,0
+Perth and Kinross,30,55,15
+Renfrewshire,25,55,10
+Scottish Borders,10,30,5
+Shetland Islands,5,10,0
+South Ayrshire,15,40,10
+South Lanarkshire,45,95,25
+Stirling,25,35,10
+West Dunbartonshire,10,15,5
+West Lothian,20,60,10
+Northern Ireland,320,675,160
+Antrim and Newtownabbey,15,35,5
+Ards and North Down,15,35,10
+Armagh City Banbridge and Craigavon,35,60,10
+Belfast,85,170,40
+Causeway Coast and Glens,15,50,10
+Derry City and Strabane,25,60,15
+Fermanagh and Omagh,20,45,10
+Lisburn and Castlereagh,30,55,15
+Mid and East Antrim,15,35,5
+Mid Ulster,40,65,25
+Newry Mourne and Down,25,65,15
