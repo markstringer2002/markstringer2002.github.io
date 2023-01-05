@@ -1,0 +1,37 @@
+Firm Type,Obstacle,Percentage
+All Firms,Financing,36.5
+All Firms,Inflation,34.6
+All Firms,Policy instability,34.4
+All Firms,Taxes and reg.,33.5
+All Firms,Exchange rate,28.0
+All Firms,Corruption,27.7
+All Firms,Street crime,27.2
+All Firms,Organized crime,24.5
+All Firms,Anti-comp. pract.,21.9
+Small Firms,Financing,38.9
+Small Firms,Inflation,36.9
+Small Firms,Policy instability,35.0
+Small Firms,Taxes and reg.,35.5
+Small Firms,Exchange rate,28.9
+Small Firms,Corruption,30.1
+Small Firms,Street crime,30.6
+Small Firms,Organized crime,26.9
+Small Firms,Anti-comp. pract.,23.8
+Medium Firms,Financing,38.0
+Medium Firms,Inflation,36.1
+Medium Firms,Policy instability,36.0
+Medium Firms,Taxes and reg.,29.7
+Medium Firms,Exchange rate,29.7
+Medium Firms,Corruption,27.4
+Medium Firms,Street crime,25.5
+Medium Firms,Organized crime,23.4
+Medium Firms,Anti-comp. pract.,21.9
+Large Firms,Financing,27.9
+Large Firms,Inflation,26.2
+Large Firms,Policy instability,29.8
+Large Firms,Taxes and reg.,21.4
+Large Firms,Exchange rate,22.4
+Large Firms,Corruption,23.4
+Large Firms,Street crime,23.9
+Large Firms,Organized crime,21.7
+Large Firms,Anti-comp. pract.,16.9
