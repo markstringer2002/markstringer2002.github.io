@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+         
+    "title": {
+        "text": "Comparing Different Industries",
+        "subtitle":["GDP per sector. Source: Trading Economics.",""],
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+        
+    "data": {
+        "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/industry_final_done_date.csv"
+        },
+    
+    "transform": [
+        {"fold":["Agriculture", "Manufacturing", "Mining", "Public Administration","Construction","Services"], "as": ["sector", "Value"]}
+        ],
+          
+    "height": 120,
+    "width": 120,   
+    
+    "mark": {   
+            "type":"line",
+            "strokeWidth":2},   
+    
+    "encoding": {
+            "x": {
+                "field": "Quarter",
+                "type": "temporal",
+                "title":null,
+                "axis":{"grid": false}},
+    
+            "y": {
+                "field": "Value",
+                "type": "quantitative",
+                "title": null},
+    
+            "facet": {
+                "field": "sector",
+                "columns": 3,
+                "title":null}
+    },
+  
+      "resolve": {"scale": {"y": "independent"}}
+  }

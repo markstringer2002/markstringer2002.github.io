@@ -1,0 +1,47 @@
+﻿,Analysis showing the count of VAT and/or PAYE based enterprises exhibiting an average annual growth in employment of 20 % per annum over a three year period 2016-2019,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Demography 2019,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,"Note: Count figures are control rounded to base five, so zeros may not necessarily be true zeroes. Where the count rounds to zero or data are deemed to be disclosive, any auxiliary variable i.e. employment or turnover  will be removed (..C). Where we remove a figure in a row or column, we must remove another in the same row and column to avoid disclosure by deduction, even in cases where the count may be large.",,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,K01000002 : United Kingdom,E92000001 : England,E12000001 : North East,E12000002 : North West,E12000003 : Yorkshire & The Humber,E12000004 : East Midlands,E12000005 : West Midlands,E12000006 : East,E12000007 : London,E12000008 : South East,E12000009 : South West,W92000004 : Wales,S92000003 : Scotland,N92000002 : Northern Ireland
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"B : Mining, quarrying and utilities",20,20,0,0,5,0,5,5,5,0,0,0,0,0
+C : Manufacturing,"1,115",935,45,115,125,120,110,100,70,145,105,55,75,50
+"D : Electricity, gas, steam and air conditioning supply",30,30,5,0,0,5,5,0,5,5,5,0,0,0
+"E : Water supply, sewerage, waste management and remediation activities",100,85,0,20,10,5,15,5,5,15,10,0,10,5
+F : Construction,905,760,40,120,70,65,65,105,100,110,85,40,75,30
+G : Wholesale and retail trade; repair of motor vehicles and motorcycles,"1,755","1,545",45,210,125,135,155,170,280,280,145,60,110,40
+H : Transport and storage,450,375,10,60,40,40,45,50,35,65,30,25,40,10
+I : Accommodation and food services,"1,285","1,090",30,100,105,80,80,110,265,180,140,55,105,35
+J : Information and communication,"1,070",985,20,85,60,30,60,70,405,190,65,20,45,20
+K : Finance and insurance,350,330,10,30,15,10,20,20,170,30,25,5,10,5
+L : Real estate activities,190,180,5,25,10,5,15,15,70,25,10,5,5,0
+"M : Professional, scientific and technical","1,485","1,325",40,150,75,80,95,110,455,220,100,50,95,15
+N : Administrative and support services,"1,485","1,325",35,160,95,95,115,135,360,225,105,50,95,15
+P : Education,375,340,15,40,30,20,25,40,100,45,25,15,20,0
+Q : Human health and social work,"1,305","1,155",40,155,100,110,100,125,195,205,125,55,65,30
+"R : Arts, entertainment and recreation",385,325,15,35,25,25,25,35,65,70,30,20,35,5
+S : Other service activities,295,265,10,20,20,20,25,20,85,35,30,5,20,5
+Total,"12,600","11,070",365,"1,325",910,845,960,"1,115","2,670","1,845","1,035",460,805,265
+,,,,,,,,,,,,,,
+Extract                        highgrowth2019,,,,,,,,,,,,,,
+Date                             08 October 2021                       ,,,,,,,,,,,,,,
+Das Number               AH912,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"National Statistics for individual themes are published by a variety of government departments, based on a variety of ",,,,,,,,,,,,,,
+data sources such as surveys and administrative information.  Details of the source of information on which the statistics are based will be included in the publications.  ,,,,,,,,,,,,,,
+A list of publications can be found at: https://www.ons.gov.uk/releasecalendar,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+For further information please contact:,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+IDBRDAS@ons.gov.uk,,,,,,,,,,,,,,
+Tel: 01633 456902,,,,,,,,,,,,,,
+Created on 08/10/2021 by the Office for National Statistics.  ,,,,,,,,,,,,,,
+"© Crown copyright. You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.",,,,,,,,,,,,,,
+"To view this licence, go to: http://www.nationalarchives.gov.uk/doc/open-government-licence/",,,,,,,,,,,,,,
+"or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU.  Email: psi@nationalarchives.gsi.gov.uk",,,,,,,,,,,,,,

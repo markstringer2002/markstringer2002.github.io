@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "",
+  "title": {
+    "text": "Percentage of Firms that Consider Obstacle to be Major",
+    "subtitle": "Filtered by Size of Firm, Source: World Bank",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "#000000",
+    "subtitleColor": "#000000"
+  },
+  "config": {
+    "background": "white",
+    "view": {"stroke": "transparent"}
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/Obstacles_clean_final_done_last%20(1).csv"
+  },
+  "width": 500,
+  "height": 300,
+  "mark": {
+    "type": "circle",
+    "opacity": 0.8,
+    "stroke": "black",
+    "strokeWidth": 0.8
+  },
+  
+  "encoding": {
+    "x": {"field": "Percentage", "type": "quantitative", "axis": {"grid": true},"scale": {"domain": [14, 42]}},
+    "y": {"field": "Obstacle", "type": "nominal", "axis": {"title": "Obstacle"}},
+    "size": {
+      "field": "Percentage",
+      "type": "quantitative",
+      "title": "",
+      "legend": {"clipHeight": 40, "padding": 10},
+      "scale": {"rangeMax": 200}
+    },
+    "color": {
+      "field": "Obstacle",
+      "type": "nominal",
+      "legend": null,
+      "scale": {"scheme": "greens"}
+    },
+    "tooltip": {"field": "Firm Type", "type": "nominal"}
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/innovation_merged_final%20(1).csv"
+  },
+  "width": 300,
+  "height": 300,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Share of High Growth Firms and Innovation Index",
+    "fontSize": 12,
+    "subtitle": [
+      "In Emerging Economies. Source: World Bank."
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10
+  
+  },
+  "layer": [
+    {
+      "mark": {"type": "point", "filled": true, "color": "blue"},
+      "encoding": {
+        "x": {
+          "field": "Share of HGFs",
+          "type": "quantitative",
+          "scale": {"domain": [0, 22]},
+          "title": "Share of High Growth Firms",
+          "axis": {"grid": false}
+        },
+        "y": {
+          "field": "Innovation Index",
+          "type": "quantitative",
+          "scale":{"domain":[17,45]},
+          "title": "Innovation Index",
+          "axis": {"grid": false}
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Share of HGFs",
+            "type": "quantitative",
+            "title": "Share of HGFs"
+          },
+          {
+            "field": "Innovation Index",
+            "type": "quantitative",
+            "title": "Innovation Index",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "firebrick"},
+      "transform": [{"regression": "Innovation Index", "on": "Share of HGFs"}],
+      "encoding": {
+        "x": {"field": "Share of HGFs", "type": "quantitative"},
+        "y": {"field": "Innovation Index", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "Share of HGFs", "on": "Innovation Index", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ]
+}
