@@ -27,7 +27,7 @@
         }
       },
       "y": {
-        "field": "Percentage",
+        "field": "Total",
         "type": "quantitative",
         "title": "Votes",
         "axis": {"grid": false}
