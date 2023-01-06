@@ -1,0 +1,219 @@
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* Set the background color for my page: */
+
+body{ 
+    background-color: rgb(210, 210, 210,1);
+}
+
+.Header{
+    margin-top: -20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(230,230,230);
+}
+
+/* BUTTONS */
+#link{
+    background-color: rgb(67, 90, 126, 0.6);
+    padding:10px;
+    border:2px;
+    border-color:grey;
+    border-style: solid;
+    border-radius: 10px;
+
+    font-family:'Times New Roman', Times, serif
+    font-weight 700;
+    color:white;
+    text-decoration: none;
+}
+
+
+
+#link:hover{
+    background-color: rgb(67, 90, 126, 1);
+    border:2px;
+    border-color:white;
+    border-style: solid;
+}
+
+.container{
+    background-color: transaprent;
+    text-align: center;
+} 
+
+
+.style{
+    margin: auto;
+    margin-top: 0px;
+    align-content: center;
+    max-width: 904px;
+    background-color: transparent;
+    padding: 20px;
+      
+}
+
+.conclusion{
+    margin: auto;
+    margin-top: 0px;
+    align-content: center;
+    max-width: 904px;
+    background-color: #ffcccb;
+    padding: 20px;
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(24, 54, 66);
+}
+
+.write{
+    margin: auto;
+    margin-top: 0px;
+    align-content: center;
+    max-width: 904px;
+    background-color: #EAEAEA;
+    padding: 20px;
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(24, 54, 66);
+}
+
+p{
+    color:rgb(17, 17, 17);
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    color: black;
+    font-family: 'Train One', cursive;
+    font-size: 50px;
+}
+
+h2{
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+h3{
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.title{
+    background-color: transparent;
+    text-align: center;
+    margin: 0px 0px;
+}
+
+.bigtitle{
+    background-color: transparent;
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+}
+
+.chart1{
+    background-color: white;
+    width: 550px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4484CE;
+    margin-left:150px;
+    justify-content: center;
+}
+
+
+
+.chart2{
+    background-color: white;
+    width: 709px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4484CE;
+    margin: auto;
+    margin-left:90px;
+    justify-content: center;
+}
+
+
+
+.chart3{
+    background-color: white;
+    width: 550px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4484CE;
+    margin-left: 130px;
+    justify-content: center;
+}
+
+.chart3:hover {
+    transform: scale(1.1);
+}
+
+.chart4{
+    background-color: white;
+    width: 550px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4484CE;
+    margin-left: 112px;
+    justify-content: center;
+}
+
+
+.chart5{
+    background-color: white;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4484CE;
+    margin-left: 160px;
+    justify-content: center;
+}
+
+.smallbutton{
+    background-color: white;
+    border: none;
+    padding: 5px 15px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #4484CE;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 10px;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    transition: background-color 1s ease;
+}
+
+.smallbutton:hover{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.buttoncontainer{
+    text-align: center;
+
+    width: 1000px;
+    margin: 0px 0px 0px 0px;
+}    
+
+
+
+
+
+

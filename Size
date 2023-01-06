@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 350,
+    "height": 200,
+    "view": {"stroke": "transparent"},
+    "title": {
+      "text": "Size of firm is a determinant of its growth rate",
+      "fontSize": 12,
+      "subtitle": [
+        "Average Number of Workers in all firms vs. HGFs. Source: World Bank."
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10
+    },
+    "data": {
+      "url":"https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/size_final%20(1).csv"
+  
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "Country"},
+      "y": {"field": "Average Number of Workers", "type": "quantitative"},
+      "xOffset": {"field": "Firm Type"},
+      "color": {"field": "Firm Type"},
+      "tooltip": [
+        {"field": "Firm Type", "title": "Firm Type"},
+        {"field": "Average Number of Workers", "title": "Average Number of Workers"}]
+    }
+  }

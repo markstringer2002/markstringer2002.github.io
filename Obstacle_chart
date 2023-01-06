@@ -17,7 +17,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/Obstacles_clean_final_done_last%20(1).csv"
   },
-  "width": 500,
+  "width": 525,
   "height": 300,
   "mark": {
     "type": "circle",
@@ -40,7 +40,7 @@
       "field": "Obstacle",
       "type": "nominal",
       "legend": null,
-      "scale": {"scheme": "greens"}
+      "scale": {"scheme": "blues"}
     },
     "tooltip": {"field": "Firm Type", "type": "nominal"}
   }

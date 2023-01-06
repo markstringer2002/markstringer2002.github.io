@@ -1,0 +1,68 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 350,
+  "height": 500,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Distribution of High Growth Firms UK",
+    "fontSize": 12,
+    "subtitle": [
+      "Percentage of Firms that have grown by more than 20% in Employment, Turnover or Both. Source: ONS, 2021."
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/ukmap.geojson",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "params": [
+    {
+      "name": "Select",
+      "value": "20% Growth",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Employment",
+          "Turnover",
+          "Employment and Turnover"
+          ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "lookup": "properties.LAD13NM",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/firm_growth_cleaned_fixed.csv"
+        },
+        "key": "Local Authority District",
+        "fields": ["Employment", "Turnover", "Employment and Turnover"]
+      }
+    },
+    {"calculate": "datum[Select]", "as": "varSelected"},
+    {"calculate": "datum['Employment and Turnover']", "as": "Employment and Turnover"},
+    {"calculate": "datum['Turnover']", "as": "Turnover"},
+    {"calculate": "datum['Employment']", "as": "Employment"}
+    
+  ],
+  "encoding": {
+    "color": {
+      "field": "varSelected",
+      "legend": {
+        "title": "",
+        "legendX": 0,
+        "legendY": 0,
+        "direction": "vertical"
+      },
+      "type": "quantitative",
+      "scale": {"scheme": "lightgreyred", "reverse": false}
+    },
+    "tooltip": [
+      {"field": "properties.LAD13NM", "title": "State"}
+    ]
+  }
+}
