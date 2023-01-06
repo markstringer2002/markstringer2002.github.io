@@ -1,0 +1,918 @@
+Category,Quarter,Value
+GDP from Agriculture,1990 Q1,2171
+GDP from Agriculture,1990 Q2,2191
+GDP from Agriculture,1990 Q3,2213
+GDP from Agriculture,1990 Q4,2224
+GDP from Agriculture,1991 Q1,2295
+GDP from Agriculture,1991 Q2,2322
+GDP from Agriculture,1991 Q3,2306
+GDP from Agriculture,1991 Q4,2304
+GDP from Agriculture,1992 Q1,2402
+GDP from Agriculture,1992 Q2,2378
+GDP from Agriculture,1992 Q3,2368
+GDP from Agriculture,1992 Q4,2304
+GDP from Agriculture,1993 Q1,2195
+GDP from Agriculture,1993 Q2,2124
+GDP from Agriculture,1993 Q3,2136
+GDP from Agriculture,1993 Q4,2117
+GDP from Agriculture,1994 Q1,2059
+GDP from Agriculture,1994 Q2,2063
+GDP from Agriculture,1994 Q3,2104
+GDP from Agriculture,1994 Q4,2136
+GDP from Agriculture,1995 Q1,2018
+GDP from Agriculture,1995 Q2,1997
+GDP from Agriculture,1995 Q3,2028
+GDP from Agriculture,1995 Q4,2043
+GDP from Agriculture,1996 Q1,1985
+GDP from Agriculture,1996 Q2,1860
+GDP from Agriculture,1996 Q3,1929
+GDP from Agriculture,1996 Q4,1959
+GDP from Agriculture,1997 Q1,1860
+GDP from Agriculture,1997 Q2,1924
+GDP from Agriculture,1997 Q3,1975
+GDP from Agriculture,1997 Q4,2025
+GDP from Agriculture,1998 Q1,1996
+GDP from Agriculture,1998 Q2,2161
+GDP from Agriculture,1998 Q3,2319
+GDP from Agriculture,1998 Q4,2465
+GDP from Agriculture,1999 Q1,2995
+GDP from Agriculture,1999 Q2,2315
+GDP from Agriculture,1999 Q3,2217
+GDP from Agriculture,1999 Q4,2597
+GDP from Agriculture,2000 Q1,3032
+GDP from Agriculture,2000 Q2,2307
+GDP from Agriculture,2000 Q3,2437
+GDP from Agriculture,2000 Q4,3268
+GDP from Agriculture,2001 Q1,5528
+GDP from Agriculture,2001 Q2,3086
+GDP from Agriculture,2001 Q3,1625
+GDP from Agriculture,2001 Q4,965
+GDP from Agriculture,2002 Q1,1281
+GDP from Agriculture,2002 Q2,3193
+GDP from Agriculture,2002 Q3,4280
+GDP from Agriculture,2002 Q4,5172
+GDP from Agriculture,2003 Q1,4000
+GDP from Agriculture,2003 Q2,2916
+GDP from Agriculture,2003 Q3,2721
+GDP from Agriculture,2003 Q4,3720
+GDP from Agriculture,2004 Q1,5200
+GDP from Agriculture,2004 Q2,3164
+GDP from Agriculture,2004 Q3,1809
+GDP from Agriculture,2004 Q4,1768
+GDP from Agriculture,2005 Q1,4531
+GDP from Agriculture,2005 Q2,3911
+GDP from Agriculture,2005 Q3,2850
+GDP from Agriculture,2005 Q4,1931
+GDP from Agriculture,2006 Q1,3015
+GDP from Agriculture,2006 Q2,3642
+GDP from Agriculture,2006 Q3,3586
+GDP from Agriculture,2006 Q4,2739
+GDP from Agriculture,2007 Q1,1735
+GDP from Agriculture,2007 Q2,2717
+GDP from Agriculture,2007 Q3,3259
+GDP from Agriculture,2007 Q4,3503
+GDP from Agriculture,2008 Q1,4083
+GDP from Agriculture,2008 Q2,3635
+GDP from Agriculture,2008 Q3,3447
+GDP from Agriculture,2008 Q4,2867
+GDP from Agriculture,2009 Q1,3151
+GDP from Agriculture,2009 Q2,3398
+GDP from Agriculture,2009 Q3,3375
+GDP from Agriculture,2009 Q4,3163
+GDP from Agriculture,2010 Q1,2941
+GDP from Agriculture,2010 Q2,2514
+GDP from Agriculture,2010 Q3,2569
+GDP from Agriculture,2010 Q4,3052
+GDP from Agriculture,2011 Q1,4804
+GDP from Agriculture,2011 Q2,4083
+GDP from Agriculture,2011 Q3,3025
+GDP from Agriculture,2011 Q4,2056
+GDP from Agriculture,2012 Q1,1816
+GDP from Agriculture,2012 Q2,2809
+GDP from Agriculture,2012 Q3,3528
+GDP from Agriculture,2012 Q4,3723
+GDP from Agriculture,2013 Q1,3009
+GDP from Agriculture,2013 Q2,2889
+GDP from Agriculture,2013 Q3,2716
+GDP from Agriculture,2013 Q4,3086
+GDP from Agriculture,2014 Q1,4282
+GDP from Agriculture,2014 Q2,4573
+GDP from Agriculture,2014 Q3,4345
+GDP from Agriculture,2014 Q4,3320
+GDP from Agriculture,2015 Q1,2883
+GDP from Agriculture,2015 Q2,3711
+GDP from Agriculture,2015 Q3,4100
+GDP from Agriculture,2015 Q4,3624
+GDP from Agriculture,2016 Q1,2259
+GDP from Agriculture,2016 Q2,2999
+GDP from Agriculture,2016 Q3,3600
+GDP from Agriculture,2016 Q4,3761
+GDP from Agriculture,2017 Q1,4079
+GDP from Agriculture,2017 Q2,3705
+GDP from Agriculture,2017 Q3,3095
+GDP from Agriculture,2017 Q4,3100
+GDP from Agriculture,2018 Q1,2753
+GDP from Agriculture,2018 Q2,2802
+GDP from Agriculture,2018 Q3,2912
+GDP from Agriculture,2018 Q4,3108
+GDP from Agriculture,2019 Q1,3274
+GDP from Agriculture,2019 Q2,3314
+GDP from Agriculture,2019 Q3,3444
+GDP from Agriculture,2019 Q4,3499
+GDP from Agriculture,2020 Q1,3474
+GDP from Agriculture,2020 Q2,3082
+GDP from Agriculture,2020 Q3,3243
+GDP from Agriculture,2020 Q4,3260
+GDP from Agriculture,2021 Q1,3330
+GDP from Agriculture,2021 Q2,3407
+GDP from Agriculture,2021 Q3,3533
+GDP from Agriculture,2021 Q4,3541
+GDP from Agriculture,2022 Q1,3562
+GDP from Agriculture,2022 Q2,3586
+GDP from Agriculture,2022 Q3,3585
+GDP from Manufacturing,1990 Q1,32138
+GDP from Manufacturing,1990 Q2,32337
+GDP from Manufacturing,1990 Q3,31988
+GDP from Manufacturing,1990 Q4,31538
+GDP from Manufacturing,1991 Q1,30938
+GDP from Manufacturing,1991 Q2,30338
+GDP from Manufacturing,1991 Q3,30038
+GDP from Manufacturing,1991 Q4,30238
+GDP from Manufacturing,1992 Q1,30338
+GDP from Manufacturing,1992 Q2,30338
+GDP from Manufacturing,1992 Q3,30438
+GDP from Manufacturing,1992 Q4,30338
+GDP from Manufacturing,1993 Q1,30838
+GDP from Manufacturing,1993 Q2,30738
+GDP from Manufacturing,1993 Q3,30738
+GDP from Manufacturing,1993 Q4,30888
+GDP from Manufacturing,1994 Q1,31538
+GDP from Manufacturing,1994 Q2,32088
+GDP from Manufacturing,1994 Q3,32437
+GDP from Manufacturing,1994 Q4,32937
+GDP from Manufacturing,1995 Q1,32437
+GDP from Manufacturing,1995 Q2,32737
+GDP from Manufacturing,1995 Q3,32837
+GDP from Manufacturing,1995 Q4,32937
+GDP from Manufacturing,1996 Q1,32987
+GDP from Manufacturing,1996 Q2,32737
+GDP from Manufacturing,1996 Q3,32937
+GDP from Manufacturing,1996 Q4,33287
+GDP from Manufacturing,1997 Q1,33537
+GDP from Manufacturing,1997 Q2,33406
+GDP from Manufacturing,1997 Q3,33562
+GDP from Manufacturing,1997 Q4,34019
+GDP from Manufacturing,1998 Q1,34448
+GDP from Manufacturing,1998 Q2,34610
+GDP from Manufacturing,1998 Q3,34840
+GDP from Manufacturing,1998 Q4,35027
+GDP from Manufacturing,1999 Q1,35455
+GDP from Manufacturing,1999 Q2,35901
+GDP from Manufacturing,1999 Q3,37038
+GDP from Manufacturing,1999 Q4,37372
+GDP from Manufacturing,2000 Q1,37613
+GDP from Manufacturing,2000 Q2,37836
+GDP from Manufacturing,2000 Q3,37979
+GDP from Manufacturing,2000 Q4,38646
+GDP from Manufacturing,2001 Q1,38923
+GDP from Manufacturing,2001 Q2,38575
+GDP from Manufacturing,2001 Q3,38958
+GDP from Manufacturing,2001 Q4,38875
+GDP from Manufacturing,2002 Q1,39781
+GDP from Manufacturing,2002 Q2,40009
+GDP from Manufacturing,2002 Q3,40998
+GDP from Manufacturing,2002 Q4,40927
+GDP from Manufacturing,2003 Q1,41272
+GDP from Manufacturing,2003 Q2,41373
+GDP from Manufacturing,2003 Q3,41628
+GDP from Manufacturing,2003 Q4,41841
+GDP from Manufacturing,2004 Q1,42440
+GDP from Manufacturing,2004 Q2,42413
+GDP from Manufacturing,2004 Q3,41767
+GDP from Manufacturing,2004 Q4,42269
+GDP from Manufacturing,2005 Q1,42191
+GDP from Manufacturing,2005 Q2,42918
+GDP from Manufacturing,2005 Q3,43133
+GDP from Manufacturing,2005 Q4,43653
+GDP from Manufacturing,2006 Q1,44751
+GDP from Manufacturing,2006 Q2,45513
+GDP from Manufacturing,2006 Q3,45882
+GDP from Manufacturing,2006 Q4,46047
+GDP from Manufacturing,2007 Q1,45762
+GDP from Manufacturing,2007 Q2,45709
+GDP from Manufacturing,2007 Q3,45537
+GDP from Manufacturing,2007 Q4,45799
+GDP from Manufacturing,2008 Q1,46532
+GDP from Manufacturing,2008 Q2,46250
+GDP from Manufacturing,2008 Q3,45730
+GDP from Manufacturing,2008 Q4,43791
+GDP from Manufacturing,2009 Q1,41825
+GDP from Manufacturing,2009 Q2,42133
+GDP from Manufacturing,2009 Q3,41955
+GDP from Manufacturing,2009 Q4,42304
+GDP from Manufacturing,2010 Q1,42366
+GDP from Manufacturing,2010 Q2,42659
+GDP from Manufacturing,2010 Q3,42424
+GDP from Manufacturing,2010 Q4,42028
+GDP from Manufacturing,2011 Q1,41924
+GDP from Manufacturing,2011 Q2,41900
+GDP from Manufacturing,2011 Q3,41738
+GDP from Manufacturing,2011 Q4,41626
+GDP from Manufacturing,2012 Q1,42276
+GDP from Manufacturing,2012 Q2,42365
+GDP from Manufacturing,2012 Q3,43151
+GDP from Manufacturing,2012 Q4,43072
+GDP from Manufacturing,2013 Q1,43491
+GDP from Manufacturing,2013 Q2,44065
+GDP from Manufacturing,2013 Q3,44828
+GDP from Manufacturing,2013 Q4,45016
+GDP from Manufacturing,2014 Q1,45570
+GDP from Manufacturing,2014 Q2,45885
+GDP from Manufacturing,2014 Q3,46090
+GDP from Manufacturing,2014 Q4,46191
+GDP from Manufacturing,2015 Q1,46485
+GDP from Manufacturing,2015 Q2,46654
+GDP from Manufacturing,2015 Q3,46403
+GDP from Manufacturing,2015 Q4,46017
+GDP from Manufacturing,2016 Q1,45764
+GDP from Manufacturing,2016 Q2,46560
+GDP from Manufacturing,2016 Q3,45964
+GDP from Manufacturing,2016 Q4,46045
+GDP from Manufacturing,2017 Q1,46253
+GDP from Manufacturing,2017 Q2,46321
+GDP from Manufacturing,2017 Q3,46723
+GDP from Manufacturing,2017 Q4,47235
+GDP from Manufacturing,2018 Q1,48371
+GDP from Manufacturing,2018 Q2,48367
+GDP from Manufacturing,2018 Q3,48290
+GDP from Manufacturing,2018 Q4,47594
+GDP from Manufacturing,2019 Q1,48807
+GDP from Manufacturing,2019 Q2,48098
+GDP from Manufacturing,2019 Q3,48686
+GDP from Manufacturing,2019 Q4,49304
+GDP from Manufacturing,2020 Q1,49807
+GDP from Manufacturing,2020 Q2,40833
+GDP from Manufacturing,2020 Q3,50751
+GDP from Manufacturing,2020 Q4,53723
+GDP from Manufacturing,2021 Q1,53366
+GDP from Manufacturing,2021 Q2,54070
+GDP from Manufacturing,2021 Q3,53592
+GDP from Manufacturing,2021 Q4,52918
+GDP from Manufacturing,2022 Q1,52087
+GDP from Manufacturing,2022 Q2,51399
+GDP from Manufacturing,2022 Q3,49969
+GDP from Mining,1990 Q1,12978
+GDP from Mining,1990 Q2,13619
+GDP from Mining,1990 Q3,12327
+GDP from Mining,1990 Q4,12425
+GDP from Mining,1991 Q1,12992
+GDP from Mining,1991 Q2,12908
+GDP from Mining,1991 Q3,13773
+GDP from Mining,1991 Q4,14010
+GDP from Mining,1992 Q1,13759
+GDP from Mining,1992 Q2,13229
+GDP from Mining,1992 Q3,13782
+GDP from Mining,1992 Q4,14470
+GDP from Mining,1993 Q1,13805
+GDP from Mining,1993 Q2,13982
+GDP from Mining,1993 Q3,15069
+GDP from Mining,1993 Q4,16087
+GDP from Mining,1994 Q1,16478
+GDP from Mining,1994 Q2,17189
+GDP from Mining,1994 Q3,17068
+GDP from Mining,1994 Q4,17059
+GDP from Mining,1995 Q1,17672
+GDP from Mining,1995 Q2,17319
+GDP from Mining,1995 Q3,17366
+GDP from Mining,1995 Q4,17719
+GDP from Mining,1996 Q1,18086
+GDP from Mining,1996 Q2,17993
+GDP from Mining,1996 Q3,18040
+GDP from Mining,1996 Q4,18193
+GDP from Mining,1997 Q1,18300
+GDP from Mining,1997 Q2,19145
+GDP from Mining,1997 Q3,21371
+GDP from Mining,1997 Q4,24557
+GDP from Mining,1998 Q1,26337
+GDP from Mining,1998 Q2,22434
+GDP from Mining,1998 Q3,17120
+GDP from Mining,1998 Q4,14554
+GDP from Mining,1999 Q1,14767
+GDP from Mining,1999 Q2,21956
+GDP from Mining,1999 Q3,23886
+GDP from Mining,1999 Q4,19445
+GDP from Mining,2000 Q1,14076
+GDP from Mining,2000 Q2,17747
+GDP from Mining,2000 Q3,19942
+GDP from Mining,2000 Q4,21373
+GDP from Mining,2001 Q1,10338
+GDP from Mining,2001 Q2,15464
+GDP from Mining,2001 Q3,19543
+GDP from Mining,2001 Q4,23256
+GDP from Mining,2002 Q1,26147
+GDP from Mining,2002 Q2,19284
+GDP from Mining,2002 Q3,12772
+GDP from Mining,2002 Q4,7764
+GDP from Mining,2003 Q1,10181
+GDP from Mining,2003 Q2,15309
+GDP from Mining,2003 Q3,18848
+GDP from Mining,2003 Q4,17232
+GDP from Mining,2004 Q1,6839
+GDP from Mining,2004 Q2,12626
+GDP from Mining,2004 Q3,17981
+GDP from Mining,2004 Q4,20777
+GDP from Mining,2005 Q1,11780
+GDP from Mining,2005 Q2,13204
+GDP from Mining,2005 Q3,13155
+GDP from Mining,2005 Q4,13915
+GDP from Mining,2006 Q1,11887
+GDP from Mining,2006 Q2,10263
+GDP from Mining,2006 Q3,11292
+GDP from Mining,2006 Q4,12143
+GDP from Mining,2007 Q1,12208
+GDP from Mining,2007 Q2,11047
+GDP from Mining,2007 Q3,9314
+GDP from Mining,2007 Q4,9173
+GDP from Mining,2008 Q1,8645
+GDP from Mining,2008 Q2,8326
+GDP from Mining,2008 Q3,9353
+GDP from Mining,2008 Q4,11157
+GDP from Mining,2009 Q1,10543
+GDP from Mining,2009 Q2,9083
+GDP from Mining,2009 Q3,7841
+GDP from Mining,2009 Q4,7028
+GDP from Mining,2010 Q1,6813
+GDP from Mining,2010 Q2,7742
+GDP from Mining,2010 Q3,7865
+GDP from Mining,2010 Q4,7995
+GDP from Mining,2011 Q1,5029
+GDP from Mining,2011 Q2,5416
+GDP from Mining,2011 Q3,5856
+GDP from Mining,2011 Q4,6087
+GDP from Mining,2012 Q1,5080
+GDP from Mining,2012 Q2,5141
+GDP from Mining,2012 Q3,5167
+GDP from Mining,2012 Q4,4021
+GDP from Mining,2013 Q1,2729
+GDP from Mining,2013 Q2,4276
+GDP from Mining,2013 Q3,4540
+GDP from Mining,2013 Q4,5566
+GDP from Mining,2014 Q1,5846
+GDP from Mining,2014 Q2,4466
+GDP from Mining,2014 Q3,3528
+GDP from Mining,2014 Q4,3523
+GDP from Mining,2015 Q1,5666
+GDP from Mining,2015 Q2,5111
+GDP from Mining,2015 Q3,4726
+GDP from Mining,2015 Q4,4777
+GDP from Mining,2016 Q1,7495
+GDP from Mining,2016 Q2,5625
+GDP from Mining,2016 Q3,4762
+GDP from Mining,2016 Q4,4448
+GDP from Mining,2017 Q1,4347
+GDP from Mining,2017 Q2,4846
+GDP from Mining,2017 Q3,5361
+GDP from Mining,2017 Q4,5312
+GDP from Mining,2018 Q1,4425
+GDP from Mining,2018 Q2,5112
+GDP from Mining,2018 Q3,5709
+GDP from Mining,2018 Q4,6072
+GDP from Mining,2019 Q1,5911
+GDP from Mining,2019 Q2,5386
+GDP from Mining,2019 Q3,5351
+GDP from Mining,2019 Q4,5129
+GDP from Mining,2020 Q1,5267
+GDP from Mining,2020 Q2,5405
+GDP from Mining,2020 Q3,5246
+GDP from Mining,2020 Q4,5152
+GDP from Mining,2021 Q1,4898
+GDP from Mining,2021 Q2,3978
+GDP from Mining,2021 Q3,4948
+GDP from Mining,2021 Q4,4780
+GDP from Mining,2022 Q1,4877
+GDP from Mining,2022 Q2,4742
+GDP from Mining,2022 Q3,4681
+GDP from Public Administration,1990 Q1,20840
+GDP from Public Administration,1990 Q2,20840
+GDP from Public Administration,1990 Q3,20794
+GDP from Public Administration,1990 Q4,20963
+GDP from Public Administration,1991 Q1,21352
+GDP from Public Administration,1991 Q2,21465
+GDP from Public Administration,1991 Q3,21620
+GDP from Public Administration,1991 Q4,21493
+GDP from Public Administration,1992 Q1,21587
+GDP from Public Administration,1992 Q2,21439
+GDP from Public Administration,1992 Q3,21365
+GDP from Public Administration,1992 Q4,21293
+GDP from Public Administration,1993 Q1,21301
+GDP from Public Administration,1993 Q2,21110
+GDP from Public Administration,1993 Q3,20794
+GDP from Public Administration,1993 Q4,20488
+GDP from Public Administration,1994 Q1,20826
+GDP from Public Administration,1994 Q2,20456
+GDP from Public Administration,1994 Q3,20206
+GDP from Public Administration,1994 Q4,20014
+GDP from Public Administration,1995 Q1,20063
+GDP from Public Administration,1995 Q2,19867
+GDP from Public Administration,1995 Q3,19779
+GDP from Public Administration,1995 Q4,19621
+GDP from Public Administration,1996 Q1,19557
+GDP from Public Administration,1996 Q2,19463
+GDP from Public Administration,1996 Q3,19402
+GDP from Public Administration,1996 Q4,19189
+GDP from Public Administration,1997 Q1,18751
+GDP from Public Administration,1997 Q2,18786
+GDP from Public Administration,1997 Q3,18731
+GDP from Public Administration,1997 Q4,18708
+GDP from Public Administration,1998 Q1,18836
+GDP from Public Administration,1998 Q2,18889
+GDP from Public Administration,1998 Q3,19164
+GDP from Public Administration,1998 Q4,19274
+GDP from Public Administration,1999 Q1,19349
+GDP from Public Administration,1999 Q2,19343
+GDP from Public Administration,1999 Q3,19338
+GDP from Public Administration,1999 Q4,19215
+GDP from Public Administration,2000 Q1,19101
+GDP from Public Administration,2000 Q2,18842
+GDP from Public Administration,2000 Q3,18889
+GDP from Public Administration,2000 Q4,19098
+GDP from Public Administration,2001 Q1,19576
+GDP from Public Administration,2001 Q2,19715
+GDP from Public Administration,2001 Q3,19834
+GDP from Public Administration,2001 Q4,19902
+GDP from Public Administration,2002 Q1,19751
+GDP from Public Administration,2002 Q2,19757
+GDP from Public Administration,2002 Q3,19495
+GDP from Public Administration,2002 Q4,19471
+GDP from Public Administration,2003 Q1,19198
+GDP from Public Administration,2003 Q2,19144
+GDP from Public Administration,2003 Q3,19267
+GDP from Public Administration,2003 Q4,19475
+GDP from Public Administration,2004 Q1,19575
+GDP from Public Administration,2004 Q2,19503
+GDP from Public Administration,2004 Q3,19754
+GDP from Public Administration,2004 Q4,20003
+GDP from Public Administration,2005 Q1,20694
+GDP from Public Administration,2005 Q2,21242
+GDP from Public Administration,2005 Q3,21629
+GDP from Public Administration,2005 Q4,21887
+GDP from Public Administration,2006 Q1,21646
+GDP from Public Administration,2006 Q2,21601
+GDP from Public Administration,2006 Q3,21788
+GDP from Public Administration,2006 Q4,21835
+GDP from Public Administration,2007 Q1,21926
+GDP from Public Administration,2007 Q2,21838
+GDP from Public Administration,2007 Q3,21812
+GDP from Public Administration,2007 Q4,21718
+GDP from Public Administration,2008 Q1,21948
+GDP from Public Administration,2008 Q2,21822
+GDP from Public Administration,2008 Q3,21679
+GDP from Public Administration,2008 Q4,21756
+GDP from Public Administration,2009 Q1,22166
+GDP from Public Administration,2009 Q2,22480
+GDP from Public Administration,2009 Q3,22746
+GDP from Public Administration,2009 Q4,22431
+GDP from Public Administration,2010 Q1,21838
+GDP from Public Administration,2010 Q2,21746
+GDP from Public Administration,2010 Q3,21843
+GDP from Public Administration,2010 Q4,22403
+GDP from Public Administration,2011 Q1,22853
+GDP from Public Administration,2011 Q2,23227
+GDP from Public Administration,2011 Q3,23385
+GDP from Public Administration,2011 Q4,23269
+GDP from Public Administration,2012 Q1,22926
+GDP from Public Administration,2012 Q2,22782
+GDP from Public Administration,2012 Q3,22577
+GDP from Public Administration,2012 Q4,22477
+GDP from Public Administration,2013 Q1,22319
+GDP from Public Administration,2013 Q2,22240
+GDP from Public Administration,2013 Q3,22144
+GDP from Public Administration,2013 Q4,22105
+GDP from Public Administration,2014 Q1,21919
+GDP from Public Administration,2014 Q2,21923
+GDP from Public Administration,2014 Q3,21959
+GDP from Public Administration,2014 Q4,21932
+GDP from Public Administration,2015 Q1,21746
+GDP from Public Administration,2015 Q2,21797
+GDP from Public Administration,2015 Q3,21888
+GDP from Public Administration,2015 Q4,22185
+GDP from Public Administration,2016 Q1,22344
+GDP from Public Administration,2016 Q2,22452
+GDP from Public Administration,2016 Q3,22643
+GDP from Public Administration,2016 Q4,22918
+GDP from Public Administration,2017 Q1,23084
+GDP from Public Administration,2017 Q2,23335
+GDP from Public Administration,2017 Q3,23404
+GDP from Public Administration,2017 Q4,23084
+GDP from Public Administration,2018 Q1,23072
+GDP from Public Administration,2018 Q2,22959
+GDP from Public Administration,2018 Q3,23322
+GDP from Public Administration,2018 Q4,23558
+GDP from Public Administration,2019 Q1,24502
+GDP from Public Administration,2019 Q2,24416
+GDP from Public Administration,2019 Q3,24519
+GDP from Public Administration,2019 Q4,24366
+GDP from Public Administration,2020 Q1,23768
+GDP from Public Administration,2020 Q2,23578
+GDP from Public Administration,2020 Q3,22927
+GDP from Public Administration,2020 Q4,22775
+GDP from Public Administration,2021 Q1,23026
+GDP from Public Administration,2021 Q2,23809
+GDP from Public Administration,2021 Q3,24140
+GDP from Public Administration,2021 Q4,24311
+GDP from Public Administration,2022 Q1,24552
+GDP from Public Administration,2022 Q2,24639
+GDP from Public Administration,2022 Q3,24841
+GDP from Construction,1990 Q1,34620
+GDP from Construction,1990 Q2,34233
+GDP from Construction,1990 Q3,33546
+GDP from Construction,1990 Q4,33296
+GDP from Construction,1991 Q1,31819
+GDP from Construction,1991 Q2,31763
+GDP from Construction,1991 Q3,31522
+GDP from Construction,1991 Q4,31095
+GDP from Construction,1992 Q1,30361
+GDP from Construction,1992 Q2,30159
+GDP from Construction,1992 Q3,30004
+GDP from Construction,1992 Q4,29486
+GDP from Construction,1993 Q1,29529
+GDP from Construction,1993 Q2,29064
+GDP from Construction,1993 Q3,28969
+GDP from Construction,1993 Q4,28878
+GDP from Construction,1994 Q1,28609
+GDP from Construction,1994 Q2,28690
+GDP from Construction,1994 Q3,28581
+GDP from Construction,1994 Q4,28562
+GDP from Construction,1995 Q1,28223
+GDP from Construction,1995 Q2,28461
+GDP from Construction,1995 Q3,28525
+GDP from Construction,1995 Q4,28615
+GDP from Construction,1996 Q1,28615
+GDP from Construction,1996 Q2,28736
+GDP from Construction,1996 Q3,29180
+GDP from Construction,1996 Q4,29016
+GDP from Construction,1997 Q1,28386
+GDP from Construction,1997 Q2,28928
+GDP from Construction,1997 Q3,28625
+GDP from Construction,1997 Q4,29418
+GDP from Construction,1998 Q1,30144
+GDP from Construction,1998 Q2,29584
+GDP from Construction,1998 Q3,29931
+GDP from Construction,1998 Q4,30747
+GDP from Construction,1999 Q1,31424
+GDP from Construction,1999 Q2,31829
+GDP from Construction,1999 Q3,32542
+GDP from Construction,1999 Q4,32476
+GDP from Construction,2000 Q1,32782
+GDP from Construction,2000 Q2,32196
+GDP from Construction,2000 Q3,31317
+GDP from Construction,2000 Q4,31832
+GDP from Construction,2001 Q1,31687
+GDP from Construction,2001 Q2,32313
+GDP from Construction,2001 Q3,31998
+GDP from Construction,2001 Q4,32296
+GDP from Construction,2002 Q1,32193
+GDP from Construction,2002 Q2,31939
+GDP from Construction,2002 Q3,32573
+GDP from Construction,2002 Q4,32578
+GDP from Construction,2003 Q1,31337
+GDP from Construction,2003 Q2,31601
+GDP from Construction,2003 Q3,31773
+GDP from Construction,2003 Q4,31924
+GDP from Construction,2004 Q1,32239
+GDP from Construction,2004 Q2,31220
+GDP from Construction,2004 Q3,30890
+GDP from Construction,2004 Q4,30754
+GDP from Construction,2005 Q1,31403
+GDP from Construction,2005 Q2,31505
+GDP from Construction,2005 Q3,31043
+GDP from Construction,2005 Q4,30961
+GDP from Construction,2006 Q1,31128
+GDP from Construction,2006 Q2,31197
+GDP from Construction,2006 Q3,31166
+GDP from Construction,2006 Q4,31628
+GDP from Construction,2007 Q1,31910
+GDP from Construction,2007 Q2,31593
+GDP from Construction,2007 Q3,30878
+GDP from Construction,2007 Q4,30923
+GDP from Construction,2008 Q1,30887
+GDP from Construction,2008 Q2,30252
+GDP from Construction,2008 Q3,29198
+GDP from Construction,2008 Q4,27356
+GDP from Construction,2009 Q1,25351
+GDP from Construction,2009 Q2,25004
+GDP from Construction,2009 Q3,25444
+GDP from Construction,2009 Q4,25152
+GDP from Construction,2010 Q1,26433
+GDP from Construction,2010 Q2,27801
+GDP from Construction,2010 Q3,28403
+GDP from Construction,2010 Q4,27758
+GDP from Construction,2011 Q1,28398
+GDP from Construction,2011 Q2,28747
+GDP from Construction,2011 Q3,28872
+GDP from Construction,2011 Q4,29486
+GDP from Construction,2012 Q1,28912
+GDP from Construction,2012 Q2,28657
+GDP from Construction,2012 Q3,28704
+GDP from Construction,2012 Q4,29316
+GDP from Construction,2013 Q1,29344
+GDP from Construction,2013 Q2,29877
+GDP from Construction,2013 Q3,30692
+GDP from Construction,2013 Q4,30522
+GDP from Construction,2014 Q1,30723
+GDP from Construction,2014 Q2,30978
+GDP from Construction,2014 Q3,31318
+GDP from Construction,2014 Q4,31573
+GDP from Construction,2015 Q1,32248
+GDP from Construction,2015 Q2,32637
+GDP from Construction,2015 Q3,32167
+GDP from Construction,2015 Q4,32173
+GDP from Construction,2016 Q1,31828
+GDP from Construction,2016 Q2,31778
+GDP from Construction,2016 Q3,31608
+GDP from Construction,2016 Q4,31808
+GDP from Construction,2017 Q1,32978
+GDP from Construction,2017 Q2,32964
+GDP from Construction,2017 Q3,32944
+GDP from Construction,2017 Q4,31349
+GDP from Construction,2018 Q1,30665
+GDP from Construction,2018 Q2,30659
+GDP from Construction,2018 Q3,30856
+GDP from Construction,2018 Q4,30772
+GDP from Construction,2019 Q1,31264
+GDP from Construction,2019 Q2,31083
+GDP from Construction,2019 Q3,31319
+GDP from Construction,2019 Q4,31104
+GDP from Construction,2020 Q1,30579
+GDP from Construction,2020 Q2,19764
+GDP from Construction,2020 Q3,28048
+GDP from Construction,2020 Q4,29486
+GDP from Construction,2021 Q1,29799
+GDP from Construction,2021 Q2,30936
+GDP from Construction,2021 Q3,30446
+GDP from Construction,2021 Q4,30878
+GDP from Construction,2022 Q1,31837
+GDP from Construction,2022 Q2,32188
+GDP from Construction,2022 Q3,32120
+GDP from Services,1990 Q1,208610
+GDP from Services,1990 Q2,208786
+GDP from Services,1990 Q3,207762
+GDP from Services,1990 Q4,208056
+GDP from Services,1991 Q1,208244
+GDP from Services,1991 Q2,208662
+GDP from Services,1991 Q3,209495
+GDP from Services,1991 Q4,209323
+GDP from Services,1992 Q1,209305
+GDP from Services,1992 Q2,209833
+GDP from Services,1992 Q3,211078
+GDP from Services,1992 Q4,212905
+GDP from Services,1993 Q1,214906
+GDP from Services,1993 Q2,216697
+GDP from Services,1993 Q3,218493
+GDP from Services,1993 Q4,219339
+GDP from Services,1994 Q1,222410
+GDP from Services,1994 Q2,224261
+GDP from Services,1994 Q3,226469
+GDP from Services,1994 Q4,227782
+GDP from Services,1995 Q1,229888
+GDP from Services,1995 Q2,229754
+GDP from Services,1995 Q3,231962
+GDP from Services,1995 Q4,231547
+GDP from Services,1996 Q1,234422
+GDP from Services,1996 Q2,236347
+GDP from Services,1996 Q3,237931
+GDP from Services,1996 Q4,238636
+GDP from Services,1997 Q1,240747
+GDP from Services,1997 Q2,242943
+GDP from Services,1997 Q3,244125
+GDP from Services,1997 Q4,245690
+GDP from Services,1998 Q1,246339
+GDP from Services,1998 Q2,249025
+GDP from Services,1998 Q3,251477
+GDP from Services,1998 Q4,253859
+GDP from Services,1999 Q1,253896
+GDP from Services,1999 Q2,253257
+GDP from Services,1999 Q3,256184
+GDP from Services,1999 Q4,261047
+GDP from Services,2000 Q1,264814
+GDP from Services,2000 Q2,267312
+GDP from Services,2000 Q3,268434
+GDP from Services,2000 Q4,266936
+GDP from Services,2001 Q1,270263
+GDP from Services,2001 Q2,272179
+GDP from Services,2001 Q3,273339
+GDP from Services,2001 Q4,274041
+GDP from Services,2002 Q1,273928
+GDP from Services,2002 Q2,276308
+GDP from Services,2002 Q3,277959
+GDP from Services,2002 Q4,281551
+GDP from Services,2003 Q1,284146
+GDP from Services,2003 Q2,285771
+GDP from Services,2003 Q3,288274
+GDP from Services,2003 Q4,290876
+GDP from Services,2004 Q1,294950
+GDP from Services,2004 Q2,296825
+GDP from Services,2004 Q3,298377
+GDP from Services,2004 Q4,298363
+GDP from Services,2005 Q1,301343
+GDP from Services,2005 Q2,305205
+GDP from Services,2005 Q3,310625
+GDP from Services,2005 Q4,316136
+GDP from Services,2006 Q1,317049
+GDP from Services,2006 Q2,316876
+GDP from Services,2006 Q3,316931
+GDP from Services,2006 Q4,318103
+GDP from Services,2007 Q1,321898
+GDP from Services,2007 Q2,325294
+GDP from Services,2007 Q3,329677
+GDP from Services,2007 Q4,332705
+GDP from Services,2008 Q1,334023
+GDP from Services,2008 Q2,332674
+GDP from Services,2008 Q3,327069
+GDP from Services,2008 Q4,322192
+GDP from Services,2009 Q1,319354
+GDP from Services,2009 Q2,318099
+GDP from Services,2009 Q3,318756
+GDP from Services,2009 Q4,320777
+GDP from Services,2010 Q1,322413
+GDP from Services,2010 Q2,326205
+GDP from Services,2010 Q3,329745
+GDP from Services,2010 Q4,330056
+GDP from Services,2011 Q1,332595
+GDP from Services,2011 Q2,334332
+GDP from Services,2011 Q3,336946
+GDP from Services,2011 Q4,338519
+GDP from Services,2012 Q1,342653
+GDP from Services,2012 Q2,341452
+GDP from Services,2012 Q3,345033
+GDP from Services,2012 Q4,344088
+GDP from Services,2013 Q1,347319
+GDP from Services,2013 Q2,347797
+GDP from Services,2013 Q3,349390
+GDP from Services,2013 Q4,350324
+GDP from Services,2014 Q1,353237
+GDP from Services,2014 Q2,357586
+GDP from Services,2014 Q3,360739
+GDP from Services,2014 Q4,363145
+GDP from Services,2015 Q1,362525
+GDP from Services,2015 Q2,364433
+GDP from Services,2015 Q3,367094
+GDP from Services,2015 Q4,371191
+GDP from Services,2016 Q1,373789
+GDP from Services,2016 Q2,375968
+GDP from Services,2016 Q3,379636
+GDP from Services,2016 Q4,382685
+GDP from Services,2017 Q1,384704
+GDP from Services,2017 Q2,386599
+GDP from Services,2017 Q3,388109
+GDP from Services,2017 Q4,388082
+GDP from Services,2018 Q1,388706
+GDP from Services,2018 Q2,390943
+GDP from Services,2018 Q3,393003
+GDP from Services,2018 Q4,394858
+GDP from Services,2019 Q1,395869
+GDP from Services,2019 Q2,396848
+GDP from Services,2019 Q3,399716
+GDP from Services,2019 Q4,398806
+GDP from Services,2020 Q1,386680
+GDP from Services,2020 Q2,304536
+GDP from Services,2020 Q3,350290
+GDP from Services,2020 Q4,352323
+GDP from Services,2021 Q1,346472
+GDP from Services,2021 Q2,373081
+GDP from Services,2021 Q3,382023
+GDP from Services,2021 Q4,390026
+GDP from Services,2022 Q1,392394
+GDP from Services,2022 Q2,393236
+GDP from Services,2022 Q3,393556
+GDP from Transport,1990 Q1,11887
+GDP from Transport,1990 Q2,11809
+GDP from Transport,1990 Q3,11704
+GDP from Transport,1990 Q4,11670
+GDP from Transport,1991 Q1,11382
+GDP from Transport,1991 Q2,11481
+GDP from Transport,1991 Q3,11531
+GDP from Transport,1991 Q4,11616
+GDP from Transport,1992 Q1,11718
+GDP from Transport,1992 Q2,11747
+GDP from Transport,1992 Q3,11798
+GDP from Transport,1992 Q4,12059
+GDP from Transport,1993 Q1,11997
+GDP from Transport,1993 Q2,12078
+GDP from Transport,1993 Q3,12265
+GDP from Transport,1993 Q4,12320
+GDP from Transport,1994 Q1,12471
+GDP from Transport,1994 Q2,12894
+GDP from Transport,1994 Q3,13026
+GDP from Transport,1994 Q4,13221
+GDP from Transport,1995 Q1,13318
+GDP from Transport,1995 Q2,13537
+GDP from Transport,1995 Q3,13918
+GDP from Transport,1995 Q4,13913
+GDP from Transport,1996 Q1,14102
+GDP from Transport,1996 Q2,14260
+GDP from Transport,1996 Q3,14452
+GDP from Transport,1996 Q4,14736
+GDP from Transport,1997 Q1,15036
+GDP from Transport,1997 Q2,15392
+GDP from Transport,1997 Q3,15705
+GDP from Transport,1997 Q4,16551
+GDP from Transport,1998 Q1,16606
+GDP from Transport,1998 Q2,16931
+GDP from Transport,1998 Q3,17201
+GDP from Transport,1998 Q4,17524
+GDP from Transport,1999 Q1,17841
+GDP from Transport,1999 Q2,18094
+GDP from Transport,1999 Q3,18255
+GDP from Transport,1999 Q4,18029
+GDP from Transport,2000 Q1,18594
+GDP from Transport,2000 Q2,18199
+GDP from Transport,2000 Q3,18733
+GDP from Transport,2000 Q4,18448
+GDP from Transport,2001 Q1,18158
+GDP from Transport,2001 Q2,18383
+GDP from Transport,2001 Q3,18509
+GDP from Transport,2001 Q4,17654
+GDP from Transport,2002 Q1,17200
+GDP from Transport,2002 Q2,17029
+GDP from Transport,2002 Q3,17189
+GDP from Transport,2002 Q4,17075
+GDP from Transport,2003 Q1,17502
+GDP from Transport,2003 Q2,17747
+GDP from Transport,2003 Q3,17810
+GDP from Transport,2003 Q4,17820
+GDP from Transport,2004 Q1,18218
+GDP from Transport,2004 Q2,18192
+GDP from Transport,2004 Q3,17983
+GDP from Transport,2004 Q4,18444
+GDP from Transport,2005 Q1,18358
+GDP from Transport,2005 Q2,17976
+GDP from Transport,2005 Q3,17984
+GDP from Transport,2005 Q4,18541
+GDP from Transport,2006 Q1,18479
+GDP from Transport,2006 Q2,19178
+GDP from Transport,2006 Q3,19058
+GDP from Transport,2006 Q4,18953
+GDP from Transport,2007 Q1,18897
+GDP from Transport,2007 Q2,19087
+GDP from Transport,2007 Q3,19400
+GDP from Transport,2007 Q4,19605
+GDP from Transport,2008 Q1,20111
+GDP from Transport,2008 Q2,20437
+GDP from Transport,2008 Q3,19689
+GDP from Transport,2008 Q4,18595
+GDP from Transport,2009 Q1,17705
+GDP from Transport,2009 Q2,16897
+GDP from Transport,2009 Q3,17473
+GDP from Transport,2009 Q4,18064
+GDP from Transport,2010 Q1,17971
+GDP from Transport,2010 Q2,18523
+GDP from Transport,2010 Q3,18978
+GDP from Transport,2010 Q4,18818
+GDP from Transport,2011 Q1,18950
+GDP from Transport,2011 Q2,19011
+GDP from Transport,2011 Q3,18865
+GDP from Transport,2011 Q4,18943
+GDP from Transport,2012 Q1,18854
+GDP from Transport,2012 Q2,18915
+GDP from Transport,2012 Q3,19023
+GDP from Transport,2012 Q4,19225
+GDP from Transport,2013 Q1,19442
+GDP from Transport,2013 Q2,19386
+GDP from Transport,2013 Q3,19291
+GDP from Transport,2013 Q4,19383
+GDP from Transport,2014 Q1,19674
+GDP from Transport,2014 Q2,19652
+GDP from Transport,2014 Q3,19739
+GDP from Transport,2014 Q4,19510
+GDP from Transport,2015 Q1,18642
+GDP from Transport,2015 Q2,18389
+GDP from Transport,2015 Q3,18376
+GDP from Transport,2015 Q4,18301
+GDP from Transport,2016 Q1,18577
+GDP from Transport,2016 Q2,18755
+GDP from Transport,2016 Q3,18858
+GDP from Transport,2016 Q4,18883
+GDP from Transport,2017 Q1,19163
+GDP from Transport,2017 Q2,18934
+GDP from Transport,2017 Q3,19064
+GDP from Transport,2017 Q4,19463
+GDP from Transport,2018 Q1,19404
+GDP from Transport,2018 Q2,19647
+GDP from Transport,2018 Q3,19813
+GDP from Transport,2018 Q4,20225
+GDP from Transport,2019 Q1,20432
+GDP from Transport,2019 Q2,20472
+GDP from Transport,2019 Q3,20208
+GDP from Transport,2019 Q4,19447
+GDP from Transport,2020 Q1,17314
+GDP from Transport,2020 Q2,9962
+GDP from Transport,2020 Q3,14339
+GDP from Transport,2020 Q4,14998
+GDP from Transport,2021 Q1,14614
+GDP from Transport,2021 Q2,15173
+GDP from Transport,2021 Q3,16033
+GDP from Transport,2021 Q4,16899
+GDP from Transport,2022 Q1,17407
+GDP from Transport,2022 Q2,17358
+GDP from Transport,2022 Q3,17413
