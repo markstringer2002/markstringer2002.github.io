@@ -34,7 +34,7 @@
       "type": "quantitative",
       "title": "",
       "legend": {"clipHeight": 40, "padding": 10},
-      "scale": {"rangeMax": 200}
+      "scale": {"rangeMax": 1200}
     },
     "color": {
       "field": "Obstacle",
