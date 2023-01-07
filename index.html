@@ -1,258 +1,74 @@
-
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!--Scale to mobile browser-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    
-    <!-- Title for the page -->
     <title>Mark Stringer</title>
 
-    <!-- Link to my style sheet -->
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href= "index.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-    <!--The next three lines allow the Vega embed-->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+        <!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  
+      <!--Favicon-->
+<link rel="icon" href="icon.png">
+
 </head>
 
-
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+  
+  body {
+    margin: 0;
+    text-align: center !important;
+  }
+  
+  </style>
 
 <body>
-    <!--Header-->
-    <div class="Header">
-        
-    <h1>Data Science for Economists.</h1>
-    <h2>Mark Stringer</h2>
-    
-        <a href="index.html" id="link">Portfolio</a>
-        <a href="Project.html" id="link">Project</a>
-        <a href="https://github.com/markstringer2002/markstringer2002.github.io" id="link">Github</a>
 
-    <p>Welcome to my Portfolio</p>
-    
+  <h1>Data Science</h1></span>
+  <h2><b>Mark Stringer-2006956</b> </h2>
+
+
+  <div class="nav">
+    <input type="checkbox">
+    <span class="lines"></span>
+    <span class="lines"></span>
+    <span class="lines"></span>
+      <div class="menu">
+        <li><a href="portfolio.html"> Portfolio</a></li>
+        <li><a href="Project.html"> Project</a></li>
+        <li><a href="https://github.com/markstringer2002/markstringer2002.github.io"> Github</a></li>
+        <li><a href="https://rapidcharts.io/datascience"> Course</a></li>
+      </div>
     </div>
 
-<!--Week 1 Homework-->
-<div class = "title">
-    <h2>Week 1</h2>
+  <div class="sectional_nav">
+    <input type="checkbox">
+    <span class="lines"></span>
+    <span class="lines"></span>
+    <span class="lines"></span>
+      <div class="smenu">
+        <li><a href="portfolio.html"> Portfolio</a></li>
+        <li><a href="project.html"> Project</a></li>
+        <li><a href="https://github.com/markstringer2002/markstringer2002.github.io"> Github</a></li>
+        <li><a href="https://rapidcharts.io/datascience"> Course</a></li>
+  </div>
 </div>
 
-    <div class = "style">
 
-        <div class="style1">
-            <h3>Inflation</h3>
-            <p>The first chart shows the weighted share of a UK consumer basket over time</p>
-            <div class="chart" id="Chart1"></div>
-        </div>
-
-        <div class = "style1">
-            <h3>GDP comparison</h3>
-            <p>The second chart shows a comparison of GDP between four different economies</p>
-            <div class="chart" id="Chart2"> </div>
-        </div>
-    <p>This week we were asked to embed two charts from the rapid charts repository onto our website</p>
-    </div>
-</div> 
-
-<!--Week 2 Homework-->
-<div class = "title">
-    <h2>Week 2</h2>
-</div>
-
-    <div class = "style">
-
-        <div class="style1">
-            <h3>Outstanding IMF debt</h3>
-            <p>This chart shows a chart of IMF lending outstanding from 1984-2022</p>
-            <div class="chart" id="IMFchart"></div>
-        </div>
-
-        <div class = "style1">
-            <h3>Outstanding IMF debt as a percentage of GDP</h3>
-            <p>This chart uses GDP data from each year to work out outstanding debt as a percentage of this</p>
-            <div class="chart" id="FixedIMFchart"> </div>
-        </div>
-    <p>1984 is the riskiest year as the graph shows that outstanding debt took up a larger proportion of GDP that year</p>
-    </div>
-</div> 
-
-<!--Week 3 Homework-->
-<div class = "title">
-    <h2>Week 3</h2>
-</div>
-
-    <div class = "style">
-
-        <div class="style1">
-            <h3>Inflation Levels Bar Chart</h3>
-            <p>This bar chart shows inflation levels in the UK vs the Global Median</p>
-            <div class="chart" id="Inflation_Level_Bar_Chart"></div>
-        </div>
-
-        <div class = "style1">
-            <h3>Inflation Levels Bar Chart</h3>
-            <p>This bar chart uses the same data as the previous chart, however, it is presented as a line chart</p>
-            <div class="chart" id="Inflation_Level_Line_Chart"> </div>
-        </div>
-    <p>I have chosen the visual encoding of a line chart instead of a bar chart as the data is a time series and therefore has a large numer of data points so a line chart is clearer to read</p>
-    </div>
-</div> 
-
-<!--Week 4 Homework-->
-<div class = "title">
-    <h2>Week 4</h2>
-    <div class = "style">
-        <h3>Tokyo Winter Olympics</h3>
-        <p>This chart shows the total and type of each medal received by countries in the 2022 Winter Olympics</p>
-        <div class="widechart" id="winterolympicsgraphs"></div>
-        <p>The analysis used to create this graph can be seen <a href="https://colab.research.google.com/drive/1uPR2hKUTLg8Savo7RamDinW5mMLkyslz?usp=sharing" target="_blank">here</a></p>
-    </div>
-</div> 
-
-<!--Week 5 Homework-->
-<div class = "title">
-    <h2>Week 5</h2>
-</div>
-
-<div class ="style">
-        <h3>Balance of Trade Dashboard</h3>
-    <p>This dashboard shows the breakdown of the UK's Balance of Trade, split into goods, services and Total</p>
-    <div class="chartdashboard" id="dashboard1"></div>
-    <div class="chartdashboard" id="dashboard2"></div>
-    <div class="chartdashboard" id="dashboard3"></div>
-    <div class="chartdashboard" id="dashboard4"></div>
-    <div class="chartdashboard" id="dashboard5"></div>
-    <div class="chartdashboard" id="dashboard6"></div>
-    <div class="chartdashboard" id="dashboard7"></div>
-    <div class="chartdashboard" id="dashboard8"></div>
-    <div class="chartdashboard" id="dashboard9"></div>
-    <p>The analysis used to create this Balance of Trade Dashboard was done using python <a href=https://colab.research.google.com/drive/1l_Stk7Kt4Tj24mt2cixMMFHJfZmEodqU#scrollTo=IUL1wvJmofYj target="_blank">here</a></p>
-</div>
-
-<!--Week 7 Homework-->
-<div class = "title">
-    <h2>Week 7</h2>
-</div>
-
-    <div class = "style">
-        <h3>Base map of Asia</h3>
-        <div class="chartmap" id="Chinabasemap"></div>
-
-        <h3>CO2 Emissions in Asia</h3>
-        <div class="chartmap" id="CO2_emissions_chart"></div>
-        <p>This chart shows the CO2 emissions in metric tons per capita of countries in Asia, the darkest colours show the countries with higher emissions</p>
-</div> 
-
-<!--Week 8 Homework-->
-<div class = "title">
-    <h2>Week 8</h2>
-</div>
-
-    <div class = "style">
-        <h3>An argument that was made at the Festival of Economics was that "The programming language most useful to learn is python"</h3>
-        <div class="widechart" id="language"></div>
-
-        <h3>Programming Languages correlation with an increased salary</h3>
-        <div class="widechart" id="languagesalary"></div>
-        <p>This first chart supports this statement as it is the second most desired language when hiring developers. The second chart refutes this argument as there are other programming languages that will give you a higher salary</p>
-</div> 
-
-<!--Week 9 Homework-->
-<div class = "title">
-        <h2>Week 9</h2>
-</div>
-
-    <div class = "style">
-        <h2>Advanced Charts- Bubble Plot</h2>
-        <div class="chart9" id="Obstacle_chart"></div>
-    
-        <h2>Advanced Charts- Trellis Chart</h2>
-        <div class="chart10" id="Industry"></div>
-
-</div> 
-
-<!--Week 10 Homework-->
-<div class = "title">
-    <h2>Week 10</h2>
-</div>
-
-<div class = "style">
-    <h2>Supervised Learning- Regression</h2>
-    <p>Hypothesis- In emerging economies, countries with more innovation will have a higher share of high growth firms. Analysis used to create regression can be seen <a href=https://colab.research.google.com/drive/16GU6Qrl71qP6XoIFUay_txpuUExLgYr1?usp=sharing target="_blank">here</a></p>
-    <div class="chart11" id="Innovation"></div>
-    <p>This regression shows that there is a correlation between innovation in a country and their share of high growth firms</p>
-    <p></p>
-
-</div> 
+</body>
 
 
-<script>
-
-    //Define charts:
-    var myChart1 = "chart3_inflation";
-    var myChart2 = "chart4_GDP";
-    var IMFdebt = "IMF chart";
-    var FixedIMFchart="IMF chart fixed"
-    var BondYield = "Bond Yield";
-    var winterolympicsgraphs = "winterolympicsgraphs";
-    var Inflation_Level_Bar_Chart = "Inflation_Level_Bar_Chart";
-    var Inflation_Level_Line_Chart = "Inflation_Level_Line_Chart";
-    var dashboard1 = "exportedgoods";
-    var dashboard2 = "importedgoods"
-    var dashboard3 = "totalgoods"
-    var dashboard4 = "exportedservices"
-    var dashboard5 = "importedservices"
-    var dashboard6 = "totalservices"
-    var dashboard7 = "exportedtotal"
-    var dashboard8 = "importedtotal"
-    var dashboard9 = "BOPtotal"
-    var Chinabasemap = "Chinabasemap"
-    var CO2_emissions_chart = "CO2_emissions_chart"
-    var language = "programming_language_chart"
-    var languagesalary = "programming_language_salary_chart"
-    var Obstacle_chart = "Obstacle_chart"
-    var Industry = "Industry"
-    var Innovation = "Innovation"
-
-
-    // Embed charts:
-    vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);  
-    vegaEmbed('#IMFchart', IMFdebt);
-    vegaEmbed('#FixedIMFchart', FixedIMFchart)
-    vegaEmbed('#BondYield', BondYield);
-    vegaEmbed('#winterolympicsgraphs', winterolympicsgraphs);
-    vegaEmbed('#Inflation_Level_Bar_Chart', Inflation_Level_Bar_Chart);
-    vegaEmbed('#Inflation_Level_Line_Chart', Inflation_Level_Line_Chart);
-    vegaEmbed('#dashboard1',dashboard1);
-    vegaEmbed('#dashboard2',dashboard2);
-    vegaEmbed('#dashboard3',dashboard3);
-    vegaEmbed('#dashboard4',dashboard4);
-    vegaEmbed('#dashboard5',dashboard5);
-    vegaEmbed('#dashboard6',dashboard6);
-    vegaEmbed('#dashboard7',dashboard7);
-    vegaEmbed('#dashboard8',dashboard8);
-    vegaEmbed('#dashboard9',dashboard9);
-    vegaEmbed('#Chinabasemap',Chinabasemap);
-    vegaEmbed('#CO2_emissions_chart',CO2_emissions_chart);
-    vegaEmbed('#language', language);
-    vegaEmbed('#languagesalary',languagesalary);
-    vegaEmbed('#Obstacle_chart', Obstacle_chart);
-    vegaEmbed('#Industry', Industry);
-    vegaEmbed('#Innovation', Innovation)
-
-
-</script>
 
 </html>
-
-
