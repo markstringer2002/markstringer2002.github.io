@@ -7,6 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
+    <head>
+      <!--Scale to mobile browser-->
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <!-- Title for the page -->
     <title>Mark Stringer</title>
 
@@ -32,7 +36,9 @@
 </head>
 
 <body>
+    <a href="index.html" id="link">Home</a>
     <a href="index.html" id="link">Portfolio</a>
+    <a href="Project.html" id="link">Project</a>
     <a href="https://github.com/markstringer2002/markstringer2002.github.io" id="link">Github</a>
 
     <div class="container">
@@ -74,7 +80,7 @@
 
   <div class="title">
     <h3>chart 2- location</h3>
-    <p>Please initially select another option to load graph</p>
+    <p>Please inititally select Turnover to load graph</p>
   </div>
   
   <div class="style">
@@ -130,11 +136,24 @@
     <a class="smallbutton" href="https://colab.research.google.com/drive/16GU6Qrl71qP6XoIFUay_txpuUExLgYr1?usp=sharing"><b>Colab</b></a>
   </div>
 
+  <div class="title">
+    <h3>chart 6- funding</h3>
+  </div>
+  
+  <div class="style">
+      <div class="chart5" id="Funding">
+  </div>
+
+  <div class="buttoncontainer">
+    <p></p>
+    <a class="smallbutton" href="https://growjo.com/"><b>Data Source</b></a>
+    <a class="smallbutton" href="https://colab.research.google.com/drive/1ArYFDP7TbXITWXGHNVVpfnDGKTEBGFXK?usp=sharing"><b>Colab</b></a>
+  </div>
   <p></p>
 
   <div class="write">
     <h3>data</h3>
-    <p>I used a variety of data sources to collect my data- these sources can be viewed by clicking the ‘Data Source’ button under each chart.</p>
+    <p>I used a variety of data sources to collect my data- these sources can be viewed by clicking the ‘Data Source’ button under each chart. My methods to clean them can be viewed by clicking the ‘colab’ button</p>
     <p>For the first chart I built a scraper using python in google collab to retrieve a table from a pdf produced by the World Bank which gave the opinions of firms of different sizes on what their major obstacles for success were. </p>
     <p>I used data downloaded from the ONS as a csv on the number of high growth firms per region and then cross referenced this with a Geojson file to produce a the heatmap. </p>
     <p>Initially I used an API from Trading Economics to download the growth of 6 different industries as this would ensure data was kept up to date. However, this site only offered a 7 day free trial so instead I had to download each file separately. I used python to merge the datasets as doing this manually could have caused errors. </p>  
@@ -155,7 +174,12 @@
 
     <div class="conclusion">
       <h3>conclusions</h3>
-    </div>
+    <p>There are a variety of factors affecting a firm’s success. It seems that companies deem financing, inflation and political instability to be their largest obstacles to growth, however, these factors are less of an obstacle to larger firms. We see in chart 4 that in emerging economies, companies that are larger (determined by average number of workers) are more likely to be high growth firms.</p>
+  <p>Location also creates an environment for high growth firms. Chart 2 shows that high growth firms appear in clusters, such as very central London, South Wales, and Edinburgh. This could be explained by their being more innovation or competition in these areas which would stimulate growth. More innovation leads to a higher share of high growth firms as shown in chart 5 with an R-squared value of 0.34.</p>  
+<p>The type of industry a business is in, is likely to affect its success. Manufacturing, services, and public administration prove to be growing industries, whilst mining is significantly declining, and agriculture is particularly volatile as shown in chart 3. Therefore, the sector a business is in will affect its probability of success.</p>  
+<p>Intuitively, businesses with more funding are more likely to have higher employment growth which is shown in chart 6 with an R-squared value of 0.35, suggesting a significant relationship. </p>
+<p>Location, industry type, innovation, funding, and the size of a firm are all determinants in whether a company will be successful. Future work could test other characteristics such as number of women on the board, level of education of managers or comparisons between the public and private sector. </p>
+</div>
     
 
 <script>
@@ -165,11 +189,13 @@ var Obstacle_chart = "Obstacle_chart"
 var Industry = "Industry"
 var Size = "Size"
 var Innovation = "Innovation"
+var Funding = "Funding"
 
 vegaEmbed('#Firm_Distribution', Firm_Distribution);
 vegaEmbed('#Obstacle_chart', Obstacle_chart);
 vegaEmbed('#Industry', Industry);
 vegaEmbed('#Size', Size)
 vegaEmbed('#Innovation', Innovation)
+vegaEmbed('#Funding', Funding)
 
 </script>

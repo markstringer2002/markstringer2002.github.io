@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/markstringer2002/markstringer2002.github.io/main/Funding_final_clean_done_again.csv"
+    },
+    "width": 300,
+    "height": 300,
+    "view": {"stroke": "transparent"},
+    "title": {
+      "text": "Level of Funding and Firm Growth by Employment",
+      "fontSize": 12,
+      "subtitle": ["On randomly selected compnaies. Source: growjo."],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10
+    },
+    "layer": [
+      {
+        "mark": {"type": "point", "filled": true, "color": "orange"},
+        "encoding": {
+          "x": {
+            "field": "Funding",
+            "scale": {"domain": [0, 700000000]},
+            "type": "quantitative",
+            "title": "Funding",
+            "axis": {"grid": false}
+          },
+          "y": {
+            "field": "Employee Growth",
+            "type": "quantitative",
+            "scale": {"domain": [100, 500]},
+            "title": "Employee Growth",
+            "axis": {"grid": false}
+          },
+          "tooltip": [
+            {"field": "Company", "type": "nominal"},
+            {
+              "field": "Funding",
+              "type": "quantitative",
+              "title": "Funding"
+            },
+            {
+              "field": "Employee Growth",
+              "type": "quantitative",
+              "title": "Employee Growth",
+              "format": ".2f"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "green"},
+        "transform": [{"regression": "Employee Growth", "on": "Funding"}],
+        "encoding": {
+          "x": {"field": "Funding", "type": "quantitative"},
+          "y": {"field": "Employee Growth", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Funding",
+            "on": "Employee Growth",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "green",
+          "x": "width",
+          "align": "right",
+          "y": -5
+  
+        },
+        "encoding": {"text": {"type": "nominal", "field": "R2"}}
+      }
+    ]
+  }
